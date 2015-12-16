@@ -1,0 +1,10 @@
+T23	Deneddylation 15 28	deneddylation
+T24	Neddylation 370 380	unmodified
+T25	Neddylation 579 591	unneddylated
+T26	Deneddylation 997 1010	deneddylation
+E1	Deneddylation:T23 Theme:T2
+E2	Neddylation:T24 Theme:T5
+M1	Negation E2
+E3	Neddylation:T25 Theme:T8
+M2	Negation E3
+E4	Deneddylation:T26 Theme:T20

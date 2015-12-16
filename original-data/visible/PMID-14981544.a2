@@ -1,0 +1,13 @@
+*	Equiv T4 T5
+T31	Sumoylation 69 80	sumoylation
+T32	Sumoylation 707 718	Conjugation
+T33	Catalysis 926 937	sumoylation
+T34	Sumoylation 926 937	sumoylation
+E1	Sumoylation:T31 Theme:T2
+M1	Negation E1
+E2	Sumoylation:T32 Theme:T19
+M2	Speculation E2
+E3	Sumoylation:T34 Theme:T25
+M3	Negation E3
+E4	Catalysis:T33 Theme:E3 Cause:T24
+M4	Negation E4

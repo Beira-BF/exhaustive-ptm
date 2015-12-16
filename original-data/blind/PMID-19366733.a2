@@ -1,0 +1,5 @@
+T11	Farnesylation 593 601	modified
+T12	Entity 607 617	C-terminal
+T13	Farnesylation 697 710	farnesylation
+E1	Farnesylation:T11 Theme:T7 Site:T12
+E2	Farnesylation:T13 Theme:T7

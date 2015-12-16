@@ -1,0 +1,15 @@
+T19	Ubiquitination 29 42	modifications
+T20	Neddylation 230 236	modify
+T21	Sumoylation 230 236	modify
+T22	Ubiquitination 323 336	modifications
+T23	Neddylation 587 599	modification
+T24	Sumoylation 587 599	modification
+T25	Ubiquitination 587 599	modification
+E1	Ubiquitination:T19 Theme:T3
+E2	Sumoylation:T21 Theme:T9
+E3	Neddylation:T20 Theme:T9
+E4	Ubiquitination:T22 Theme:T10
+E5	Ubiquitination:T22 Theme:T11
+E6	Ubiquitination:T25 Theme:T15
+E7	Sumoylation:T24 Theme:T15
+E8	Neddylation:T23 Theme:T15

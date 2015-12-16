@@ -1,0 +1,25 @@
+T9	Palmitoylation 303 317	palmitoylation
+T10	Palmitoylation 454 468	Palmitoylation
+T11	Palmitoylation 588 597	acylation
+T12	Palmitoylation 599 613	Palmitoylation
+T13	Entity 621 642	C-terminal CAAX motif
+T14	Palmitoylation 738 750	modification
+T15	Entity 756 772	cysteine residue
+T16	Myristoylation 796 809	myristoylated
+T17	Entity 810 817	glycine
+T18	Palmitoylation 880 897	non-palmitoylated
+T19	Myristoylation 922 935	myristoylated
+E1	Palmitoylation:T9 Theme:T1
+E2	Palmitoylation:T9 Theme:T2
+E3	Palmitoylation:T9 Theme:T3
+E4	Palmitoylation:T9 Theme:T4
+E5	Palmitoylation:T9 Theme:T5
+E6	Palmitoylation:T10 Theme:T6
+E7	Palmitoylation:T11 Theme:T6
+E8	Palmitoylation:T12 Site:T13 Theme:T6
+M1	Negation E8
+E9	Palmitoylation:T14 Theme:T7 Site:T15
+E10	Myristoylation:T16 Site:T17 Theme:T7
+E11	Palmitoylation:T18 Theme:T8
+M2	Negation E11
+E12	Myristoylation:T19 Theme:T8

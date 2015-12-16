@@ -1,0 +1,5 @@
+*	Equiv T3 T4
+*	Equiv T11 T12
+T21	Sulfation 669 677	sulfated
+T22	Entity 703 708	Tyr38
+E1	Sulfation:T21 Site:T22 Theme:T8

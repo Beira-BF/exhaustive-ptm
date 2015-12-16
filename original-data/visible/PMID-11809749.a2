@@ -1,0 +1,5 @@
+*	Equiv T1 T2
+*	Equiv T5 T6
+*	Equiv T11 T12
+T17	Other_PTM 988 1001	carbonylation
+E1	Other_PTM:T17 Theme:T10

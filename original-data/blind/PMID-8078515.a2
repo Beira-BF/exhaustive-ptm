@@ -1,0 +1,26 @@
+T14	Geranylgeranylation 1036 1054	gerenylgerenylated
+T15	Geranylgeranylation 1036 1054	gerenylgerenylated
+T16	Geranylgeranylation 1036 1054	gerenylgerenylated
+T17	Farnesylation 1063 1075	farnesylated
+T18	Farnesylation 1063 1075	farnesylated
+T19	Farnesylation 1063 1075	farnesylated
+E1	Geranylgeranylation:T14 Theme:T2
+M1	Speculation E1
+E2	Geranylgeranylation:T15 Theme:T3
+M2	Speculation E2
+E3	Geranylgeranylation:T16 Theme:T7
+M3	Speculation E3
+E4	Geranylgeranylation:T14 Theme:T8
+M4	Speculation E4
+E5	Farnesylation:T17 Theme:T2
+M5	Speculation E5
+M6	Negation E5
+E6	Farnesylation:T18 Theme:T3
+M7	Speculation E6
+M8	Negation E6
+E7	Farnesylation:T19 Theme:T7
+M9	Speculation E7
+M10	Negation E7
+E8	Farnesylation:T17 Theme:T8
+M11	Speculation E8
+M12	Negation E8

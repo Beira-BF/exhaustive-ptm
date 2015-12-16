@@ -1,0 +1,20 @@
+*	Equiv T4 T5
+T19	Sumoylation 171 181	sumoylated
+T20	Sumoylation 208 219	sumoylation
+T21	Entity 278 294	sumoylation site
+T22	Ubiquitination 302 310	modified
+T23	Sumoylation 428 439	sumoylation
+T24	Ubiquitination 444 458	ubiquitination
+T25	Sumoylation 829 840	sumoylation
+T26	Ubiquitination 846 860	ubiquitination
+T27	Sumoylation 1244 1255	sumoylation
+T28	Ubiquitination 1260 1274	ubiquitination
+E1	Sumoylation:T19 Theme:T5
+E2	Sumoylation:T20 Theme:T5
+E3	Ubiquitination:T22 Theme:T5 Site:T21
+E4	Sumoylation:T23 Theme:T7
+E5	Ubiquitination:T24 Theme:T7
+E6	Sumoylation:T25 Theme:T11
+E7	Ubiquitination:T26 Theme:T11
+E8	Sumoylation:T27 Theme:T18
+E9	Ubiquitination:T28 Theme:T18

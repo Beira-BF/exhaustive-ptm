@@ -1,0 +1,5 @@
+*	Equiv T3 T4
+*	Equiv T5 T6
+T16	Prenylation 1711 1726	no prenyl group
+E1	Prenylation:T16 Theme:T14
+M1	Negation E1

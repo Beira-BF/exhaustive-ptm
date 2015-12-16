@@ -1,0 +1,10 @@
+T5	ADP-ribosylation 226 242	ADP-ribosylation
+T6	ADP-ribosylation 584 600	ADP-ribosylation
+T7	ADP-ribosylation 860 876	ADP-ribosylation
+T8	ADP-ribosylation 1422 1437	ADP-ribosylated
+E1	ADP-ribosylation:T5 Theme:T1
+E2	ADP-ribosylation:T6 Theme:T2
+E3	ADP-ribosylation:T7 Theme:T3
+M1	Negation E3
+E4	ADP-ribosylation:T8 Theme:T4
+M2	Negation E4

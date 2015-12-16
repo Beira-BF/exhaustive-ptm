@@ -1,0 +1,6 @@
+T24	ADP-ribosylation 1230 1245	ADP-ribosylated
+T25	Catalysis 1230 1245	ADP-ribosylated
+T26	Entity 1306 1311	Asn41
+E1	ADP-ribosylation:T24 Theme:T15 Site:T26
+E2	Catalysis:T25 Theme:E1 Cause:T16
+E3	Catalysis:T25 Theme:E1 Cause:T17

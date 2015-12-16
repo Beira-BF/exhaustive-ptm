@@ -1,0 +1,14 @@
+*	Equiv T18 T19
+T16	Acetylation 425 432	rodents
+T17	Phosphorylation 541 556	phosphorylation
+T18	Entity 564 574	serine 816
+T19	Entity 576 580	S816
+T20	Entity 586 590	S818
+T21	Palmitoylation 686 700	palmitoylation
+T22	Entity 710 714	C811
+T23	Phosphorylation 737 752	phosphorylation
+E1	Acetylation:T16 Theme:T2
+E2	Phosphorylation:T17 Theme:T5 Site:T18
+E3	Phosphorylation:T17 Theme:T5 Site:T20
+E4	Palmitoylation:T21 Theme:T9 Site:T22
+E5	Phosphorylation:T23 Theme:T9

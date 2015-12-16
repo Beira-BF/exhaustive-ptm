@@ -1,0 +1,16 @@
+*	Equiv T3 T4
+T21	Sumoylation 0 11	SUMOylation
+T22	Sumoylation 482 493	SUMOylation
+T23	Sumoylation 645 656	SUMOylation
+T24	Sumoylation 834 845	SUMOylation
+T25	Sumoylation 1497 1508	SUMOylation
+T26	Sumoylation 1730 1741	SUMOylation
+T27	Sumoylation 1819 1830	SUMOylation
+E1	Sumoylation:T21 Theme:T1
+E2	Sumoylation:T22 Theme:T5
+E3	Sumoylation:T23 Theme:T6
+E4	Sumoylation:T24 Theme:T7
+E5	Sumoylation:T25 Theme:T17
+M1	Negation E5
+E6	Sumoylation:T26 Theme:T19
+E7	Sumoylation:T27 Theme:T20

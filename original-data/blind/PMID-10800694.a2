@@ -1,0 +1,14 @@
+T10	Geranylgeranylation 2699 2717	geranylgeranylated
+T11	Methylation 2734 2745	methylation
+T12	Demethylation 2900 2912	demethylated
+T13	Geranylgeranylation 2913 2931	geranylgeranylated
+T14	Methylation 2958 2968	methylated
+T15	Methylation 3071 3082	methylation
+T16	Geranylgeranylation 3163 3181	geranylgeranylated
+E1	Geranylgeranylation:T10 Theme:T5
+E2	Methylation:T11 Theme:T5
+E3	Demethylation:T12 Theme:T7
+E4	Geranylgeranylation:T13 Theme:T7
+E5	Methylation:T14 Theme:T7
+E6	Methylation:T15 Theme:T9
+E7	Geranylgeranylation:T16 Theme:T9

@@ -1,0 +1,28 @@
+T4	Prenylation 525 535	prenylated
+T5	Geranylgeranylation 569 588	geranylgeranylation
+T6	Methylation 608 627	carboxyl-methylated
+T7	Prenylation 661 672	prenylation
+T8	Entity 681 689	cysteine
+T9	Entity 909 918	cysteines
+T10	Prenylation 940 950	prenylated
+T11	Prenylation 972 983	prenylation
+T12	Entity 995 1004	cysteines
+T13	Entity 1032 1040	cysteine
+T14	Prenylation 1072 1082	prenylated
+T15	Prenylation 1200 1211	prenylation
+T16	Entity 1226 1234	cysteine
+T17	Prenylation 1318 1328	prenylated
+T18	Prenylation 1419 1430	prenylation
+T19	Methylation 1584 1604	Carboxyl methylation
+T20	Entity 1674 1682	cysteine
+E1	Prenylation:T4 Theme:T2
+E2	Geranylgeranylation:T5 Theme:T2
+E3	Methylation:T6 Theme:T2
+E4	Prenylation:T7 Theme:T2 Site:T8
+E5	Prenylation:T10 Theme:T2 Site:T9
+E6	Prenylation:T11 Theme:T2 Site:T12
+E7	Prenylation:T14 Theme:T2 Site:T13
+E8	Prenylation:T15 Theme:T3 Site:T16
+E9	Prenylation:T17 Theme:T3
+E10	Prenylation:T18 Theme:T3
+E11	Methylation:T19 Theme:T3 Site:T20

@@ -1,0 +1,8 @@
+T8	Glycosylation 668 680	GlcNAcylated
+T9	Glycosylation 686 699	GlcNAcylation
+E1	Glycosylation:T8 Theme:T2
+E2	Glycosylation:T8 Theme:T3
+E3	Glycosylation:T8 Theme:T4
+M1	Negation E3
+E4	Glycosylation:T9 Theme:T5
+E5	Glycosylation:T9 Theme:T6

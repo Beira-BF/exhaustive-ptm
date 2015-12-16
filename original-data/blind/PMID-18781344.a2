@@ -1,0 +1,12 @@
+T11	Entity 46 52	lysine
+T12	Carboxylation 53 66	carboxylation
+T13	Carboxylation 232 244	carboxylated
+T14	Entity 245 251	lysine
+T15	Carboxylation 261 273	carboxylated
+T16	Entity 274 280	lysine
+T17	Carboxylation 1320 1332	carboxylated
+T18	Entity 1333 1339	lysine
+E1	Carboxylation:T12 Site:T11 Theme:T1
+E2	Carboxylation:T13 Site:T14 Theme:T2
+E3	Carboxylation:T15 Site:T16 Theme:T3
+E4	Carboxylation:T17 Site:T18 Theme:T8

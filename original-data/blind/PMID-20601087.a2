@@ -1,0 +1,6 @@
+T10	Neddylation 148 160	modification
+T11	Sumoylation 148 160	modification
+T12	Ubiquitination 148 160	modification
+E1	Ubiquitination:T12 Theme:T3
+E2	Sumoylation:T11 Theme:T3
+E3	Neddylation:T10 Theme:T3

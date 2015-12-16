@@ -1,0 +1,9 @@
+T8	Palmitoylation 613 627	palmitoylation
+T9	Catalysis 842 850	mediates
+T10	Palmitoylation 875 889	palmitoylation
+E1	Palmitoylation:T8 Theme:T3
+E2	Catalysis:T9 Theme:E4 Cause:T5
+E3	Catalysis:T9 Theme:E5 Cause:T6
+M1	Negation E3
+E4	Palmitoylation:T10 Theme:T3
+E5	Palmitoylation:T10 Theme:T3

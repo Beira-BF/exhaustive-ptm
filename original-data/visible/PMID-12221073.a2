@@ -1,0 +1,4 @@
+T8	Glycosylation 1655 1663	O-linked
+T9	Entity 1664 1680	oligosaccharides
+E1	Glycosylation:T8 Sidechain:T9 Theme:T3
+E2	Glycosylation:T8 Sidechain:T9 Theme:T4

@@ -1,0 +1,22 @@
+*	Equiv T6 T7
+*	Equiv T17 T18
+T14	Glycosylation 12 27	O-glycosylation
+T15	Phosphorylation 28 45	O-phosphorylation
+T16	Glycosylation 308 316	O-linked
+T17	Entity 317 336	N-acetylglucosamine
+T18	Entity 338 346	O-GlcNAc
+T19	Glycosylation 502 510	modified
+T20	Phosphorylation 502 510	modified
+T21	Entity 521 529	O-GlcNAc
+T22	Glycosylation 664 678	O-GlcNAcylated
+T23	Glycosylation 873 887	O-GlcNAcylated
+T24	Phosphorylation 1016 1033	O-phosphorylation
+T25	Entity 1049 1056	Ser(16)
+E1	Glycosylation:T14 Theme:T1
+E2	Phosphorylation:T15 Theme:T1
+E3	Glycosylation:T16 Theme:T4 Sidechain:T17
+E4	Glycosylation:T19 Sidechain:T21 Theme:T5
+E5	Phosphorylation:T20 Theme:T5
+E6	Glycosylation:T22 Theme:T6
+E7	Glycosylation:T23 Theme:T9
+E8	Phosphorylation:T24 Theme:T11 Site:T25

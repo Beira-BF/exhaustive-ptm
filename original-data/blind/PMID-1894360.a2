@@ -1,0 +1,13 @@
+T10	Palmitoylation 590 603	incorporation
+T11	Lipidation 1199 1211	nonlipidated
+T12	Lipidation 1290 1299	lipidated
+T13	Lipidation 1326 1340	lipid-modified
+E1	Palmitoylation:T10 Theme:T3
+E2	Lipidation:T11 Theme:T8
+M1	Negation E2
+E3	Lipidation:T11 Theme:T7
+M2	Negation E3
+E4	Lipidation:T11 Theme:T6
+E5	Lipidation:T12 Theme:T9
+E6	Lipidation:T13 Theme:T9
+M3	Negation E6

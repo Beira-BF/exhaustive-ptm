@@ -1,0 +1,30 @@
+T1	Protein 0 5	PIASy
+T2	Protein 33 50	androgen receptor
+T3	Protein 83 88	PIASy
+T4	Protein 203 220	androgen receptor
+T5	Protein 222 224	AR
+T6	Protein 275 280	PIASy
+T7	Protein 304 306	AR
+T8	Protein 321 323	AR
+T9	Protein 364 369	PIASy
+T10	Protein 371 376	PIASy
+T11	Protein 473 478	PIASy
+T12	Protein 502 504	AR
+T13	Protein 540 545	HDAC1
+T14	Protein 550 555	HDAC2
+T15	Protein 595 600	PIASy
+T16	Protein 610 612	AR
+T17	Protein 653 662	ubiquitin
+T18	Protein 722 728	SUMO-1
+T19	Protein 732 734	AR
+T20	Protein 776 778	AR
+T21	Protein 831 836	PIASy
+T22	Protein 853 858	PIASy
+T23	Protein 870 872	AR
+T24	Protein 896 901	PIASy
+T25	Protein 970 972	AR
+T26	Protein 1057 1059	AR
+T27	Protein 1108 1113	PIASy
+T28	Protein 1117 1119	AR
+T29	Protein 1146 1151	PIASy
+T30	Protein 1164 1166	AR

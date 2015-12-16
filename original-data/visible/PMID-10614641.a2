@@ -1,0 +1,8 @@
+T25	Prenylation 16 27	prenylation
+T26	Prenylation 352 363	prenylation
+T27	Phosphorylation 822 837	phosphorylation
+E1	Prenylation:T25 Theme:T1
+M1	Negation E1
+E2	Prenylation:T26 Theme:T6
+M2	Negation E2
+E3	Phosphorylation:T27 Theme:T16

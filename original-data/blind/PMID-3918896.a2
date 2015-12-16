@@ -1,0 +1,6 @@
+T10	Glycosylation 1450 1458	N-linked
+T11	Entity 1459 1475	oligosaccharides
+E1	Glycosylation:T10 Sidechain:T11 Theme:T4
+E2	Glycosylation:T10 Sidechain:T11 Theme:T3
+E3	Glycosylation:T10 Sidechain:T11 Theme:T2
+E4	Glycosylation:T10 Sidechain:T11 Theme:T1

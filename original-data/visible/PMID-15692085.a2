@@ -1,0 +1,16 @@
+*	Equiv T2 T3
+T28	Phosphorylation 382 401	autophosphorylation
+T29	Catalysis 382 401	autophosphorylation
+T30	Phosphorylation 771 790	autophosphorylation
+T31	Catalysis 771 790	autophosphorylation
+T32	Phosphorylation 1196 1211	phosphorylation
+T33	Entity 1227 1232	Tyr14
+T34	Phosphorylation 1569 1583	phosphorylated
+E1	Phosphorylation:T28 Theme:T5
+E2	Catalysis:T29 Theme:E1 Cause:T5
+E3	Phosphorylation:T30 Theme:T10
+E4	Catalysis:T31 Theme:E3 Cause:T10
+E5	Phosphorylation:T32 Site:T33 Theme:T20
+E6	Phosphorylation:T32 Theme:T21
+E7	Phosphorylation:T34 Theme:T25
+M1	Negation E7

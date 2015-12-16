@@ -1,0 +1,19 @@
+*	Equiv T10 T11
+T14	Ubiquitination 4 18	ubiquitylation
+T15	Sumoylation 23 34	sumoylation
+T16	Ubiquitination 377 391	ubiquitylation
+T17	Entity 410 417	lysines
+T18	Entity 563 570	lysines
+T19	Sumoylation 575 585	sumoylated
+T20	Ubiquitination 743 757	ubiquitylation
+T21	Sumoylation 762 773	sumoylation
+T22	Ubiquitination 906 920	ubiquitylation
+T23	Sumoylation 925 936	sumoylation
+E1	Ubiquitination:T14 Theme:T1
+E2	Sumoylation:T15 Theme:T1
+E3	Ubiquitination:T16 Theme:T3 Site:T17
+E4	Sumoylation:T19 Theme:T3 Site:T18
+E5	Ubiquitination:T20 Theme:T9
+E6	Sumoylation:T21 Theme:T9
+E7	Ubiquitination:T22 Theme:T12
+E8	Sumoylation:T23 Theme:T12

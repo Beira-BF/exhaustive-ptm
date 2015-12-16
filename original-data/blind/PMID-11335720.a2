@@ -1,0 +1,11 @@
+*	Equiv T6 T7
+T22	Prenylation 299 309	prenylated
+T23	Prenylation 808 819	prenylation
+E1	Prenylation:T22 Theme:T2
+E2	Prenylation:T22 Theme:T3
+E3	Prenylation:T22 Theme:T4
+E4	Prenylation:T22 Theme:T5
+E5	Prenylation:T23 Theme:T8
+E6	Prenylation:T23 Theme:T9
+E7	Prenylation:T23 Theme:T10
+E8	Prenylation:T23 Theme:T11

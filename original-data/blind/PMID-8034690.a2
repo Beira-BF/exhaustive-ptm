@@ -1,0 +1,5 @@
+T18	Sulfation 38 46	sulfated
+T19	Entity 1330 1333	Tyr
+T20	Sulfation 1334 1342	sulfated
+E1	Sulfation:T18 Theme:T1
+E2	Sulfation:T20 Site:T19 Theme:T15

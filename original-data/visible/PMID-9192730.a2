@@ -1,0 +1,10 @@
+*	Equiv T5 T6
+*	Equiv T13 T14
+T21	Farnesylation 34 46	farnesylated
+T22	Prenylation 418 428	prenylated
+T23	Prenylation 466 476	prenylated
+T24	Farnesylation 638 650	farnesylated
+E1	Farnesylation:T21 Theme:T1
+E2	Prenylation:T22 Theme:T9
+E3	Prenylation:T23 Theme:T10
+E4	Farnesylation:T24 Theme:T11

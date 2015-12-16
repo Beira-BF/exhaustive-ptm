@@ -1,0 +1,4 @@
+*	Equiv T2 T3
+T10	Oxidation 950 959	oxidation
+T11	Entity 972 991	methionine residues
+E1	Oxidation:T10 Site:T11 Theme:T8

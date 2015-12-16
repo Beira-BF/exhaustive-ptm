@@ -1,0 +1,5 @@
+T17	Myristoylation 754 770	nonmyristoylated
+T18	Myristoylation 1623 1637	myristoylation
+E1	Myristoylation:T17 Theme:T7
+M1	Negation E1
+E2	Myristoylation:T18 Theme:T15

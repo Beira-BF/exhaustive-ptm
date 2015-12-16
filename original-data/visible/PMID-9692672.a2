@@ -1,0 +1,6 @@
+T13	Farnesylation 661 673	farnesylates
+T14	Farnesylation 707 719	farnesylated
+T15	Farnesylation 953 965	farnesylated
+E1	Farnesylation:T13 Theme:T9
+E2	Farnesylation:T14 Theme:T10
+E3	Farnesylation:T15 Theme:T12

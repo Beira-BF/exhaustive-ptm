@@ -1,0 +1,17 @@
+*	Equiv T4 T5
+T20	Sumoylation 30 41	sumoylation
+T21	Sumoylation 389 397	modified
+T22	Sumoylation 476 486	conjugated
+T23	Entity 490 499	lysine 12
+T24	Sumoylation 595 605	sumoylated
+T25	Sumoylation 1006 1016	sumoylated
+T26	Sumoylation 1046 1056	sumoylated
+T27	Sumoylation 1152 1163	sumoylation
+E1	Sumoylation:T20 Theme:T1
+E2	Sumoylation:T21 Theme:T3
+E3	Sumoylation:T22 Theme:T6 Site:T23
+E4	Sumoylation:T24 Theme:T10
+M1	Negation E4
+E5	Sumoylation:T25 Theme:T16
+E6	Sumoylation:T26 Theme:T17
+E7	Sumoylation:T27 Theme:T18

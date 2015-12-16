@@ -1,0 +1,8 @@
+T6	Myristoylation 70 83	myristoylated
+T7	Myristoylation 1125 1138	myristoylated
+T8	Myristoylation 1203 1209	linked
+T9	Myristoylation 1534 1548	myristoylation
+E1	Myristoylation:T6 Theme:T1
+E2	Myristoylation:T7 Theme:T3
+E3	Myristoylation:T8 Theme:T4
+E4	Myristoylation:T9 Theme:T5

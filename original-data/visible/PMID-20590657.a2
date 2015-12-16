@@ -1,0 +1,4 @@
+*	Equiv T4 T5
+T13	Entity 576 584	Tyrosine
+T14	Sulfation 585 594	sulfation
+E1	Sulfation:T14 Site:T13 Theme:T6

@@ -1,0 +1,8 @@
+*	Equiv T5 T6
+T22	Palmitoylation 815 829	Palmitoylation
+T23	Depalmitoylation 1154 1169	depalmitoylated
+T24	Palmitoylation 1201 1217	repalmitoylation
+E1	Palmitoylation:T22 Theme:T14
+E2	Palmitoylation:T22 Theme:T16
+E3	Depalmitoylation:T23 Theme:T21
+E4	Palmitoylation:T24 Theme:T21

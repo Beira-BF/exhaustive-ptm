@@ -1,0 +1,4 @@
+*	Equiv T2 T3
+T5	Oxidation 392 401	oxidation
+T6	Entity 405 410	Cys14
+E1	Oxidation:T5 Theme:T2 Site:T6

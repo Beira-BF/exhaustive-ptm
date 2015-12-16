@@ -1,0 +1,8 @@
+T5	Prenylation 441 452	prenylation
+T6	Palmitoylation 568 582	palmitoylation
+T7	Palmitoylation 721 735	palmitoylation
+T8	Palmitoylation 886 900	palmitoylation
+E1	Prenylation:T5 Theme:T2
+E2	Palmitoylation:T6 Theme:T3
+E3	Palmitoylation:T7 Theme:T3
+E4	Palmitoylation:T8 Theme:T4

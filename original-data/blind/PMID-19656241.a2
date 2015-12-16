@@ -1,0 +1,11 @@
+*	Equiv T4 T5 T6
+*	Equiv T8 T9
+*	Equiv T10 T11
+*	Equiv T12 T13
+T17	Ubiquitination 788 802	ubiquitination
+T18	Phosphorylation 870 883	phosphorylate
+T19	Ubiquitination 1011 1025	ubiquitination
+E1	Ubiquitination:T17 Theme:T2
+E2	Phosphorylation:T18 Theme:T3
+E3	Phosphorylation:T18 Theme:T6
+E4	Ubiquitination:T19 Theme:T9

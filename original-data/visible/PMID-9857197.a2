@@ -1,0 +1,9 @@
+*	Equiv T16 T17
+*	Equiv T21 T22
+T26	Oxidation 178 187	oxidative
+T27	Oxidation 619 628	oxidation
+T28	Entity 685 702	cysteine residues
+T29	Oxidation 833 842	oxidation
+E1	Oxidation:T26 Theme:T2
+E2	Oxidation:T27 Theme:T11 Site:T28
+E3	Oxidation:T29 Theme:T14

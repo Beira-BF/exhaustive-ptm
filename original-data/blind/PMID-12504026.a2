@@ -1,0 +1,7 @@
+*	Equiv T6 T7
+*	Equiv T10 T11
+T28	Neddylation 15 27	unneddylated
+T29	Neddylation 564 575	Neddylation
+E1	Neddylation:T28 Theme:T2
+M1	Negation E1
+E2	Neddylation:T29 Theme:T23

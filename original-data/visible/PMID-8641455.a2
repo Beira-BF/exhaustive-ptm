@@ -1,0 +1,6 @@
+T7	Palmitoylation 318 331	palmitoylated
+T8	Palmitoylation 522 535	palmitoylated
+T9	Palmitoylation 633 639	linked
+E1	Palmitoylation:T7 Theme:T3
+E2	Palmitoylation:T8 Theme:T5
+E3	Palmitoylation:T9 Theme:T6

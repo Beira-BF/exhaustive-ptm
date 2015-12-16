@@ -1,0 +1,9 @@
+T9	Oxidation 69 82	photoxidation
+T10	Oxidation 152 166	photooxidation
+T11	Oxidation 988 1003	photooxidizable
+E1	Oxidation:T9 Theme:T1
+E2	Oxidation:T9 Theme:T2
+E3	Oxidation:T10 Theme:T3
+E4	Oxidation:T10 Theme:T4
+E5	Oxidation:T11 Theme:T5
+E6	Oxidation:T11 Theme:T6

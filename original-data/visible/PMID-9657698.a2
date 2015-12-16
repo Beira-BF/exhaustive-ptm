@@ -1,0 +1,26 @@
+*	Equiv T5 T7
+T37	Prenylation 9 31	isoprenyl group linked
+T38	Farnesylation 236 244	modified
+T39	Farnesylation 236 244	modified
+T40	Farnesylation 936 944	modified
+T41	Geranylgeranylation 936 944	modified
+T42	Farnesylation 999 1007	farnesyl
+T43	Geranylgeranylation 1011 1025	geranylgeranyl
+T44	Prenylation 1736 1750	isoprenylation
+T45	Geranylgeranylation 1845 1863	geranylgeranylated
+T46	Geranylgeranylation 1905 1923	geranylgeranylated
+E1	Prenylation:T37 Theme:T1
+E2	Farnesylation:T38 Theme:T2
+E3	Farnesylation:T39 Theme:T3
+E4	Farnesylation:T38 Theme:T4
+E5	Geranylgeranylation:T41 Theme:T11
+E6	Geranylgeranylation:T41 Theme:T12
+E7	Farnesylation:T40 Theme:T11
+E8	Farnesylation:T40 Theme:T12
+E9	Farnesylation:T42 Theme:T14
+E10	Farnesylation:T42 Theme:T16
+E11	Geranylgeranylation:T43 Theme:T16
+E12	Geranylgeranylation:T43 Theme:T14
+E13	Prenylation:T44 Theme:T31
+E14	Geranylgeranylation:T45 Theme:T34
+E15	Geranylgeranylation:T46 Theme:T36

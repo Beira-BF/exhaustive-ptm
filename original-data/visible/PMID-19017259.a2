@@ -1,0 +1,20 @@
+*	Equiv T2 T3
+T18	Phosphorylation 1237 1251	phosphorylated
+T19	Entity 1510 1535	(Sialyl) Galbeta1-3GalNAc
+T20	Glycosylation 1540 1546	linked
+T21	Entity 1550 1558	Thr(175)
+T22	Entity 1573 1580	Thr(14)
+T23	Entity 1585 1593	Ser(174)
+T24	Entity 1595 1627	sialyl complex-type sugar chains
+T25	Entity 1631 1639	Asn(117)
+T26	Entity 1644 1652	Asn(167)
+T27	Entity 1662 1670	Asn(228)
+T28	Glycosylation 1679 1691	glycosylated
+E1	Phosphorylation:T18 Theme:T13
+E2	Glycosylation:T20 Theme:T13 Sidechain:T19 Site:T21
+E3	Glycosylation:T20 Sidechain:T19 Theme:T13 Site:T22
+E4	Glycosylation:T20 Site:T23 Sidechain:T19 Theme:T13
+E5	Glycosylation:T20 Site:T25 Sidechain:T24 Theme:T13
+E6	Glycosylation:T20 Site:T26 Sidechain:T24 Theme:T13
+E7	Glycosylation:T28 Site:T27 Theme:T13
+M1	Negation E7

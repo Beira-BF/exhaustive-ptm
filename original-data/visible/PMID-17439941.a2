@@ -1,0 +1,10 @@
+*	Equiv T8 T9
+*	Equiv T21 T22
+T29	Neddylation 712 723	neddylation
+T30	Neddylation 911 922	neddylation
+T31	Neddylation 1025 1037	modification
+T32	Neddylation 1538 1549	neddylation
+E1	Neddylation:T29 Theme:T12
+E2	Neddylation:T30 Theme:T13
+E3	Neddylation:T31 Theme:T14
+E4	Neddylation:T32 Theme:T27

@@ -1,0 +1,21 @@
+T26	Prenylation 18 29	prenylation
+T27	Geranylgeranylation 18 29	prenylation
+T28	Prenylation 846 857	prenylation
+T29	Prenylation 965 976	prenylation
+T30	Prenylation 1130 1141	prenylation
+T31	Prenylation 1301 1312	prenylation
+T32	Prenylation 1502 1513	prenylation
+T33	Prenylation 1570 1581	prenylation
+T34	Prenylation 1769 1780	prenylation
+E1	Geranylgeranylation:T27 Theme:T1
+E2	Prenylation:T26 Theme:T2
+E3	Prenylation:T26 Theme:T3
+E4	Prenylation:T28 Theme:T11
+E5	Prenylation:T28 Theme:T12
+E6	Prenylation:T28 Theme:T13
+E7	Prenylation:T29 Theme:T14
+E8	Prenylation:T30 Theme:T16
+E9	Prenylation:T31 Theme:T18
+E10	Prenylation:T32 Theme:T19
+E11	Prenylation:T33 Theme:T20
+E12	Prenylation:T34 Theme:T21

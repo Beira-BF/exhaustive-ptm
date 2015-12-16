@@ -1,0 +1,16 @@
+*	Equiv T2 T3 T4 T5
+T23	Phosphorylation 1058 1072	phosphorylated
+T24	Catalysis 1058 1072	phosphorylated
+T25	Entity 1083 1096	threonine 111
+T26	Phosphorylation 1267 1282	Phosphorylation
+T27	Catalysis 1267 1282	Phosphorylation
+T28	Sumoylation 1425 1436	sumoylation
+T29	Phosphorylation 1510 1525	phosphorylation
+T30	Entity 1529 1542	threonine 111
+E1	Phosphorylation:T23 Theme:T12 Site:T25
+E2	Catalysis:T24 Theme:E1 Cause:T11
+E3	Phosphorylation:T26 Theme:T17
+E4	Catalysis:T27 Theme:E3 Cause:T18
+E5	Sumoylation:T28 Theme:T20
+E6	Phosphorylation:T29 Theme:T20 Site:T30
+E7	Phosphorylation:T29 Theme:E6 Cause:T21

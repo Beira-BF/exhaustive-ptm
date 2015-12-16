@@ -1,0 +1,12 @@
+T19	Phosphorylation 647 662	Phosphorylation
+T20	Sulfation 689 698	sulfation
+T21	Phosphorylation 990 1005	Phosphorylation
+T22	Sulfation 1153 1164	O-Sulfation
+T23	Entity 1168 1177	tyrosines
+E1	Phosphorylation:T19 Theme:T1
+E2	Phosphorylation:T19 Theme:T2
+E3	Phosphorylation:T19 Theme:T3
+E4	Sulfation:T20 Theme:T3
+E5	Phosphorylation:T21 Theme:T4
+E6	Phosphorylation:T21 Theme:T5
+E7	Sulfation:T22 Site:T23 Theme:T6

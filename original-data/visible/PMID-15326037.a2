@@ -1,0 +1,7 @@
+*	Equiv T2 T3
+*	Equiv T9 T10
+T19	Prenylation 249 263	isoprenylation
+T20	Prenylation 1061 1077	nonisoprenylated
+E1	Prenylation:T19 Theme:T2
+E2	Prenylation:T20 Theme:T8
+M1	Negation E2

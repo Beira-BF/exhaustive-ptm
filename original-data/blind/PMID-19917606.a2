@@ -1,0 +1,25 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+*	Equiv T7 T8
+*	Equiv T11 T12
+*	Equiv T13 T14
+*	Equiv T24 T25
+*	Equiv T26 T27
+T29	Phosphorylation 0 15	Phosphorylation
+T30	Neddylation 65 76	neddylation
+T31	Neddylation 601 609	modified
+T32	Phosphorylation 677 692	phosphorylation
+T33	Neddylation 721 732	neddylation
+T34	Phosphorylation 741 756	phosphorylation
+T35	Phosphorylation 1220 1235	phosphorylation
+T36	Neddylation 1413 1425	modification
+T37	Neddylation 1503 1515	modification
+E1	Phosphorylation:T29 Theme:T1
+E2	Neddylation:T30 Theme:T1
+E3	Neddylation:T31 Theme:T11
+E4	Phosphorylation:T32 Theme:T13
+E5	Neddylation:T33 Theme:T13
+E6	Phosphorylation:T34 Theme:T13
+E7	Phosphorylation:T35 Theme:T18
+E8	Neddylation:T36 Theme:T20
+E9	Neddylation:T37 Theme:T22

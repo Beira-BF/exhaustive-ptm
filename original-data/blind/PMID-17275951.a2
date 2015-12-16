@@ -1,0 +1,5 @@
+*	Equiv T1 T2
+T12	ADP-ribosylation 951 972	oly(ADP ribosylation)
+T13	Acetylation 977 988	acetylation
+E1	ADP-ribosylation:T12 Theme:T8
+E2	Acetylation:T13 Theme:T8

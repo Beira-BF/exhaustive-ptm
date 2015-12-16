@@ -1,0 +1,6 @@
+T6	ADP-deribosylation 49 65	ADP-ribosylation
+T7	ADP-ribosylation 1132 1148	ADP-ribosylation
+T8	ADP-ribosylation 1259 1275	ADP-ribosylation
+E1	ADP-deribosylation:T6 Theme:T1
+E2	ADP-ribosylation:T7 Theme:T4
+E3	ADP-ribosylation:T8 Theme:T5

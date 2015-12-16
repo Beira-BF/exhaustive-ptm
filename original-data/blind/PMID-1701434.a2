@@ -1,0 +1,47 @@
+T12	Phosphorylation 202 216	phosphorylated
+T13	Entity 220 225	Ser96
+T14	Amidation 227 235	amidated
+T15	Sulfation 250 258	sulfated
+T16	Entity 262 267	Tyr87
+T17	Entity 271 277	Tyr103
+T18	Amidation 395 403	amidated
+T19	Phosphorylation 694 708	phosphorylated
+T20	Amidation 710 718	amidated
+T21	Sulfation 724 732	sulfated
+T22	Amidation 869 877	amidated
+T23	Phosphorylation 1356 1371	phosphorylation
+T24	Entity 1403 1408	Ser96
+T25	Amidation 1472 1480	amidated
+T26	Sulfation 1491 1498	ulfated
+T27	Entity 1502 1507	Tyr87
+T28	Sulfation 1647 1655	sulfated
+T29	Sulfation 1689 1697	sulfated
+T30	Entity 1701 1707	Tyr103
+T31	Sulfation 1736 1745	sulfation
+T32	Amidation 1749 1757	amidated
+T33	Phosphorylation 1868 1883	phosphorylation
+T34	Amidation 1888 1897	amidation
+T35	Phosphorylation 2016 2031	phosphorylation
+T36	Amidation 2079 2087	amidated
+T37	Phosphorylation 2142 2157	phosphorylation
+E1	Phosphorylation:T12 Theme:T2 Site:T13
+E2	Amidation:T14 Theme:T2
+E3	Sulfation:T15 Site:T17 Theme:T2
+E4	Sulfation:T15 Theme:T2 Site:T16
+E5	Amidation:T18 Theme:T3
+E6	Phosphorylation:T19 Theme:T5
+E7	Amidation:T20 Theme:T5
+E8	Sulfation:T21 Theme:T5
+E9	Amidation:T22 Theme:T6
+E10	Phosphorylation:T23 Theme:T6 Site:T24
+E11	Amidation:T25 Theme:T6
+E12	Sulfation:T26 Site:T27 Theme:T6
+E13	Sulfation:T28 Theme:T6
+E14	Sulfation:T29 Site:T30 Theme:T6
+E15	Sulfation:T31 Theme:T8
+E16	Amidation:T32 Theme:T8
+E17	Phosphorylation:T33 Theme:T9
+E18	Amidation:T34 Theme:T9
+E19	Phosphorylation:T35 Theme:T11
+E20	Amidation:T36 Theme:T11
+E21	Phosphorylation:T37 Theme:T11

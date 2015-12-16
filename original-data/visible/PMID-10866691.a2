@@ -1,0 +1,22 @@
+*	Equiv T3 T4
+T26	Ubiquitination 162 176	Ubiquitination
+T27	Ubiquitination 393 407	ubiquitination
+T28	Phosphorylation 585 600	phosphorylation
+T29	Phosphorylation 690 705	phosphorylation
+T30	Phosphorylation 1016 1031	phosphorylation
+T31	Prenylation 1435 1446	prenylation
+T32	Entity 1450 1479	C-terminal dicysteinyl motifs
+T33	Prenylation 1723 1734	prenylation
+T34	Palmitoylation 1752 1766	palmitoylation
+E1	Ubiquitination:T26 Theme:T3
+E2	Ubiquitination:T27 Theme:T3
+E3	Phosphorylation:T28 Theme:T8
+E4	Phosphorylation:T29 Theme:T10
+M1	Negation E4
+E5	Phosphorylation:T30 Theme:T13
+M2	Negation E5
+E6	Prenylation:T31 Theme:T19 Site:T32
+E7	Prenylation:T31 Theme:T20 Site:T32
+E8	Prenylation:T33 Theme:T25
+E9	Palmitoylation:T34 Theme:T25
+M3	Speculation E9

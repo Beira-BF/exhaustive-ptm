@@ -1,0 +1,7 @@
+*	Equiv T2 T3
+T9	Decarboxylation 132 147	decarboxylation
+T10	Decarboxylation 526 541	decarboxylation
+T11	Decarboxylation 948 963	decarboxylation
+E1	Decarboxylation:T9 Theme:T1
+E2	Decarboxylation:T10 Theme:T4
+E3	Decarboxylation:T11 Theme:T7

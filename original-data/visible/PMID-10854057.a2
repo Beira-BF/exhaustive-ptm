@@ -1,0 +1,10 @@
+T16	Entity 198 208	C-terminal
+T17	Lipidation 209 228	lipid modifications
+T18	Entity 1113 1123	C-terminal
+T19	Lipidation 1124 1143	lipid modifications
+T20	Lipidation 1591 1610	lipid modifications
+E1	Lipidation:T17 Site:T16 Theme:T3
+M1	Negation E1
+E2	Lipidation:T19 Site:T18 Theme:T11
+M2	Negation E2
+E3	Lipidation:T20 Theme:T15

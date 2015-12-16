@@ -1,0 +1,7 @@
+T13	Farnesylation 278 291	farnesylation
+T14	Farnesylation 759 775	non-farnesylated
+T15	Farnesylation 881 893	farnesylated
+E1	Farnesylation:T13 Theme:T4
+E2	Farnesylation:T14 Theme:T6
+M1	Negation E2
+E3	Farnesylation:T15 Theme:T8

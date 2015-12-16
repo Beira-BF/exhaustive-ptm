@@ -1,0 +1,4 @@
+*	Equiv T2 T3
+T15	Sumoylation 1042 1053	SUMOylation
+E1	Sumoylation:T15 Theme:T11
+M1	Negation E1

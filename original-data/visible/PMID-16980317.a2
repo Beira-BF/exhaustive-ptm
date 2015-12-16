@@ -1,0 +1,24 @@
+T12	Acetylation 15 26	acetylation
+T13	Acetylation 520 531	acetylation
+T14	Methylation 533 544	methylation
+T15	Phosphorylation 546 561	phosphorylation
+T16	Ubiquitination 563 577	ubiquitination
+T17	Sumoylation 579 590	SUMOylation
+T18	ADP-ribosylation 595 616	poly-ADP-ribosylation
+T19	Acetylation 651 662	acetylation
+T20	Acetylation 863 874	acetylation
+T21	Acetylation 934 945	acetylation
+T22	Acetylation 1035 1045	acetylated
+T23	Acetylation 1715 1726	acetylation
+E1	Acetylation:T12 Theme:T1
+E2	Acetylation:T13 Theme:T3
+E3	Methylation:T14 Theme:T3
+E4	Phosphorylation:T15 Theme:T3
+E5	Ubiquitination:T16 Theme:T3
+E6	Sumoylation:T17 Theme:T3
+E7	ADP-ribosylation:T18 Theme:T3
+E8	Acetylation:T19 Theme:T4
+E9	Acetylation:T20 Theme:T5
+E10	Acetylation:T21 Theme:T6
+E11	Acetylation:T22 Theme:T7
+E12	Acetylation:T23 Theme:T11

@@ -1,0 +1,6 @@
+T12	Farnesylation 547 559	farnesylated
+T13	Geranylgeranylation 568 586	geranylgeranylated
+T14	Geranylgeranylation 698 717	geranylgeranylation
+E1	Farnesylation:T12 Theme:T4
+E2	Geranylgeranylation:T13 Theme:T4
+E3	Geranylgeranylation:T14 Theme:T5

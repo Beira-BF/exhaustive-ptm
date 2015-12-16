@@ -1,0 +1,16 @@
+T9	Phosphorylation 332 347	phosphorylation
+T10	Entity 349 355	lysine
+T11	Methylation 356 367	methylation
+T12	ADP-ribosylation 372 388	ADP-ribosylation
+T13	Phosphorylation 839 854	phosphorylation
+T14	Entity 905 908	S10
+T15	Phosphorylation 1050 1068	monophosphorylated
+T16	Entity 1072 1075	S10
+T17	Entity 1294 1300	lysine
+T18	Methylation 1301 1312	methylation
+E1	Phosphorylation:T9 Theme:T3
+E2	Methylation:T11 Theme:T3 Site:T10
+E3	ADP-ribosylation:T12 Theme:T3
+E4	Phosphorylation:T13 Theme:T6 Site:T14
+E5	Phosphorylation:T15 Theme:T8 Site:T16
+E6	Methylation:T18 Theme:T6 Site:T17

@@ -1,0 +1,5 @@
+*	Equiv T2 T3
+T17	Farnesylation 338 350	farnesylated
+T18	Methylation 351 361	methylated
+E1	Farnesylation:T17 Theme:T5
+E2	Methylation:T18 Theme:T5

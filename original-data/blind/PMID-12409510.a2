@@ -1,0 +1,10 @@
+*	Equiv T2 T3
+T22	Carboxylation 331 349	gamma-carboxylated
+T23	Carboxylation 391 409	gamma-carboxylated
+T24	Carboxylation 435 439	non-
+T25	Carboxylation 443 460	undercarboxylated
+E1	Carboxylation:T22 Theme:T2
+E2	Carboxylation:T23 Theme:T4
+E3	Carboxylation:T24 Theme:T6
+M1	Negation E3
+E4	Carboxylation:T25 Theme:T6

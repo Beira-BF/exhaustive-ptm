@@ -1,0 +1,8 @@
+T14	Farnesylation 179 192	Farnesylation
+T15	Farnesylation 425 433	addition
+T16	Farnesylation 745 758	farnesylation
+T17	Farnesylation 859 871	farnesylated
+E1	Farnesylation:T14 Theme:T4
+E2	Farnesylation:T15 Theme:T5
+E3	Farnesylation:T16 Theme:T9
+E4	Farnesylation:T17 Theme:T10

@@ -1,0 +1,14 @@
+*	Equiv T4 T5
+*	Equiv T9 T10
+T46	Entity 528 537	Ser(1179)
+T47	Phosphorylation 538 553	phosphorylation
+T48	Entity 1053 1062	Ser(1179)
+T49	Phosphorylation 1063 1078	phosphorylation
+T50	Palmitoylation 1764 1778	palmitoylation
+T51	Palmitoylation 1816 1830	palmitoylation
+E1	Phosphorylation:T47 Theme:T11 Site:T46
+E2	Phosphorylation:T49 Theme:T19 Site:T48
+E3	Palmitoylation:T50 Theme:T35
+E4	Palmitoylation:T50 Theme:T36
+E5	Palmitoylation:T51 Theme:T37
+E6	Palmitoylation:T51 Theme:T38

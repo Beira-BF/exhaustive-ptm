@@ -1,0 +1,8 @@
+*	Equiv T2 T3
+T6	Palmitoylation 50 64	palmitoylation
+T7	Palmitoylation 407 421	palmitoylation
+T8	Entity 427 455	central cysteine-rich region
+T9	Palmitoylation 510 524	palmitoylation
+E1	Palmitoylation:T6 Theme:T1
+E2	Palmitoylation:T7 Theme:T4 Site:T8
+E3	Palmitoylation:T9 Theme:T5

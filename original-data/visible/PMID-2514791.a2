@@ -1,0 +1,44 @@
+*	Equiv T2 T3
+T14	Glycosylation 37 52	N-glycosylation
+T15	Glycosylation 854 868	N-glycosylated
+T16	Entity 892 899	Asn-117
+T17	Entity 904 911	Asn-448
+T18	Entity 957 964	Asn-117
+T19	Glycosylation 982 992	associated
+T20	Entity 998 1026	oligomannose-type structures
+T21	Entity 1047 1054	Asn-184
+T22	Entity 1059 1066	Asn-448
+T23	Glycosylation 1085 1095	associated
+T24	Entity 1101 1124	complex-type structures
+T25	Entity 1184 1192	complex-
+T26	Entity 1197 1225	oligomannose-type structures
+T27	Glycosylation 1298 1308	associated
+T28	Entity 1319 1326	neutral
+T29	Entity 1331 1358	sialylated oligosaccharides
+T30	Glycosylation 1401 1411	associated
+T31	Entity 1417 1442	sulfated oligosaccharides
+T32	Entity 1477 1484	Asn-448
+T33	Entity 1509 1532	complex-type structures
+T34	Glycosylation 1533 1538	occur
+T35	Glycosylation 1679 1689	glycoforms
+T36	Glycosylation 1846 1855	glycoform
+E1	Glycosylation:T14 Theme:T1
+E2	Glycosylation:T15 Site:T16 Theme:T6
+E3	Glycosylation:T15 Site:T17 Theme:T6
+E4	Glycosylation:T19 Sidechain:T20 Site:T18 Theme:T6
+E5	Glycosylation:T23 Site:T21 Sidechain:T25 Theme:T6
+E6	Glycosylation:T23 Sidechain:T24 Site:T21 Theme:T7
+E7	Glycosylation:T23 Site:T22 Sidechain:T24 Theme:T7
+E8	Glycosylation:T23 Site:T22 Sidechain:T26 Theme:T6
+E9	Glycosylation:T23 Site:T22 Sidechain:T25 Theme:T6
+E10	Glycosylation:T23 Site:T21 Sidechain:T26 Theme:T6
+E11	Glycosylation:T27 Sidechain:T29 Theme:T8
+E12	Glycosylation:T27 Sidechain:T28 Theme:T8
+E13	Glycosylation:T30 Sidechain:T31 Theme:T9 Site:T32
+E14	Glycosylation:T30 Sidechain:T29 Theme:T9
+E15	Glycosylation:T30 Sidechain:T28 Theme:T9
+E16	Glycosylation:T34 Sidechain:T33 Theme:T11
+M1	Negation E16
+E17	Glycosylation:T35 Theme:T12
+E18	Glycosylation:T36 Theme:T13
+M2	Negation E18

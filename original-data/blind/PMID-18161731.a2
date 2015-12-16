@@ -1,0 +1,12 @@
+T4	Other_PTM 1390 1399	Nitration
+T5	Entity 1456 1461	Tyr24
+T6	Entity 1466 1471	Tyr42
+T7	Entity 1493 1499	Tyr130
+T8	Entity 1504 1509	Trp15
+T9	Other_PTM 1651 1666	nitro reduction
+T10	Entity 1714 1719	Tyr24
+E1	Other_PTM:T4 Site:T5 Theme:T1
+E2	Other_PTM:T4 Site:T6 Theme:T1
+E3	Other_PTM:T4 Site:T7 Theme:T2
+E4	Other_PTM:T4 Site:T8 Theme:T2
+E5	Other_PTM:T9 Site:T10 Theme:T3

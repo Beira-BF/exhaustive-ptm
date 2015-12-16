@@ -1,0 +1,8 @@
+*	Equiv T4 T5
+*	Equiv T8 T9
+T14	Acylation 803 816	succinylation
+T15	Catalysis 803 816	succinylation
+T16	Acylation 1598 1610	succinylated
+E1	Acylation:T14 Theme:T2
+E2	Catalysis:T15 Theme:E1 Cause:T4
+E3	Acylation:T16 Theme:T11

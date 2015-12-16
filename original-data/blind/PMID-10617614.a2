@@ -1,0 +1,22 @@
+T11	Myristoylation 282 291	acylation
+T12	Palmitoylation 282 291	acylation
+T13	Palmitoylation 411 420	acylation
+T14	Myristoylation 411 420	acylation
+T15	Myristoylation 521 535	myristoylation
+T16	Palmitoylation 540 554	palmitoylation
+T17	Palmitoylation 733 746	palmitoylated
+T18	Palmitoylation 1266 1280	palmitoylation
+E1	Myristoylation:T11 Theme:T1
+E2	Palmitoylation:T12 Theme:T1
+E3	Myristoylation:T11 Theme:T2
+E4	Palmitoylation:T12 Theme:T2
+E5	Palmitoylation:T13 Theme:T3
+M1	Negation E5
+E6	Myristoylation:T14 Theme:T3
+M2	Negation E6
+E7	Myristoylation:T15 Theme:T4
+E8	Palmitoylation:T16 Theme:T4
+E9	Palmitoylation:T17 Theme:T8
+E10	Palmitoylation:T17 Theme:T7
+E11	Palmitoylation:T17 Theme:T6
+E12	Palmitoylation:T18 Theme:T9

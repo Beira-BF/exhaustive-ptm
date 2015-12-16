@@ -1,0 +1,9 @@
+*	Equiv T2 T3
+T21	Lipidation 81 91	lipidation
+T22	Ubiquitination 1036 1046	conjugates
+T23	Deubiquitination 1197 1212	deubiquitinated
+T24	Lipidation 1692 1702	lipidation
+E1	Lipidation:T21 Theme:T1
+E2	Ubiquitination:T22 Theme:T11
+E3	Deubiquitination:T23 Theme:T13
+E4	Lipidation:T24 Theme:T18

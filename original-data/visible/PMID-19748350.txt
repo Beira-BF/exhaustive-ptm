@@ -1,0 +1,2 @@
+Resolving the CSN and CAND1 paradoxes. 
+In this issue of Molecular Cell, Schmidt et al. (2009) untangle the interplay between the COP9 signalosome (CSN), cullin-associated and neddylation-dissociated 1 (CAND1) protein, and cullin-RING ubiquitin ligases (CRLs).

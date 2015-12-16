@@ -1,0 +1,4 @@
+T11	Palmitoylation 1413 1427	palmitoylation
+T12	Catalysis 1413 1427	palmitoylation
+E1	Palmitoylation:T11 Theme:T9
+E2	Catalysis:T12 Theme:E1 Cause:T10

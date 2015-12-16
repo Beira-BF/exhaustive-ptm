@@ -1,0 +1,8 @@
+*	Equiv T3 T4
+T15	Prenylation 82 96	isoprenylation
+T16	Farnesylation 291 303	farnesylated
+T17	Farnesylation 886 898	farnesylated
+E1	Prenylation:T15 Theme:T1
+E2	Farnesylation:T16 Theme:T3
+E3	Farnesylation:T17 Theme:T8
+M1	Negation E3

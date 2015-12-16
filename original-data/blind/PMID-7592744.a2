@@ -1,0 +1,22 @@
+*	Equiv T4 T5
+T33	Prenylation 892 905	isoprenylated
+T34	Prenylation 1097 1114	non-isoprenylated
+T35	Prenylation 1278 1295	non-isoprenylated
+T36	Prenylation 1449 1466	non-isoprenylated
+T37	Prenylation 1534 1547	isoprenylated
+T38	Catalysis 1741 1750	catalyzed
+T39	ADP-ribosylation 1751 1767	ADP-ribosylation
+T40	Prenylation 1783 1796	isoprenylated
+T41	Prenylation 1983 1997	isoprenylation
+E1	Prenylation:T33 Theme:T16
+E2	Prenylation:T34 Theme:T18
+M1	Negation E2
+E3	Prenylation:T35 Theme:T21
+M2	Negation E3
+E4	Prenylation:T36 Theme:T22
+M3	Negation E4
+E5	Prenylation:T37 Theme:T24
+E6	Catalysis:T38 Theme:E7 Cause:T27
+E7	ADP-ribosylation:T39 Theme:T28
+E8	Prenylation:T40 Theme:T28
+E9	Prenylation:T41 Theme:T31

@@ -1,0 +1,5 @@
+T25	Phosphorylation 1162 1177	phosphorylation
+T26	Entity 1188 1197	serine-15
+T27	Phosphorylation 1568 1583	phosphorylation
+E1	Phosphorylation:T25 Site:T26 Theme:T17
+E2	Phosphorylation:T27 Theme:T22

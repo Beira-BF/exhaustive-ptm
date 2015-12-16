@@ -1,0 +1,10 @@
+*	Equiv T5 T6
+T23	Ubiquitination 618 636	polyubiquitination
+T24	Ubiquitination 760 778	polyubiquitination
+T25	Entity 1770 1780	C-terminal
+T26	Phosphorylation 1781 1796	phosphorylation
+T27	Ubiquitination 1851 1869	polyubiquitination
+E1	Ubiquitination:T23 Theme:T7
+E2	Ubiquitination:T24 Theme:T8
+E3	Phosphorylation:T26 Theme:T21 Site:T25
+E4	Ubiquitination:T27 Theme:T21

@@ -1,0 +1,15 @@
+*	Equiv T2 T3
+*	Equiv T4 T5
+T19	Prenylation 0 14	Isoprenylation
+T20	Prenylation 1055 1068	isoprenylated
+T21	Prenylation 1222 1236	isoprenylation
+T22	Prenylation 1260 1274	isoprenylation
+T23	Prenylation 1404 1418	isoprenylation
+E1	Prenylation:T19 Theme:T1
+E2	Prenylation:T20 Theme:T10
+M1	Speculation E2
+E3	Prenylation:T21 Theme:T10
+M2	Negation E3
+E4	Prenylation:T22 Theme:T10
+M3	Negation E4
+E5	Prenylation:T23 Theme:T13

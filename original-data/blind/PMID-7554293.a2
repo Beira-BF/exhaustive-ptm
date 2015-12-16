@@ -1,0 +1,10 @@
+*	Equiv T2 T3
+T14	Entity 929 941	C-terminally
+T15	Amidation 942 950	amidated
+T16	Sulfation 955 965	O-sulfated
+T17	Amidation 1142 1150	amidated
+T18	Amidation 1367 1382	carboxyamidated
+E1	Amidation:T15 Site:T14 Theme:T6
+E2	Sulfation:T16 Theme:T6
+E3	Amidation:T17 Theme:T7
+E4	Amidation:T18 Theme:T9

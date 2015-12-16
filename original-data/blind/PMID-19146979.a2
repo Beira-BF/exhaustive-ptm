@@ -1,0 +1,22 @@
+*	Equiv T3 T4
+T35	Palmitoylation 0 14	Palmitoylation
+T36	Palmitoylation 495 509	palmitoylation
+T37	Depalmitoylation 905 920	depalmitoylated
+T38	Palmitoylation 936 949	palmitoylated
+T39	Depalmitoylation 1092 1107	depalmitoylated
+T40	Palmitoylation 1192 1205	palmitoylated
+T41	Palmitoylation 1237 1251	palmitoylation
+T42	Depalmitoylation 1410 1425	depalmitoylated
+T43	Palmitoylation 1444 1457	palmitoylated
+T44	Depalmitoylation 1809 1824	depalmitoylated
+E1	Palmitoylation:T35 Theme:T1
+E2	Palmitoylation:T36 Theme:T9
+M1	Speculation E2
+E3	Depalmitoylation:T37 Theme:T20
+E4	Palmitoylation:T38 Theme:T21
+E5	Depalmitoylation:T39 Theme:T24
+E6	Palmitoylation:T40 Theme:T25
+E7	Palmitoylation:T41 Theme:T27
+E8	Depalmitoylation:T42 Theme:T30
+E9	Palmitoylation:T43 Theme:T31
+E10	Depalmitoylation:T44 Theme:T34

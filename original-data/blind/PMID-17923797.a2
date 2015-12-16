@@ -1,0 +1,12 @@
+*	Equiv T9 T10
+T33	Acylation 93 101	acylated
+T34	Acylation 333 341	acylated
+T35	Acylation 346 353	desacyl
+T36	Acylation 514 522	acylated
+T37	Acylation 1879 1887	acylated
+E1	Acylation:T33 Theme:T4
+E2	Acylation:T34 Theme:T8
+E3	Acylation:T35 Theme:T8
+M1	Negation E3
+E4	Acylation:T36 Theme:T9
+E5	Acylation:T37 Theme:T32

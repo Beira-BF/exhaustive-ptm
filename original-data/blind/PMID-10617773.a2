@@ -1,0 +1,6 @@
+T7	Phosphorylation 2096 2111	phosphorylation
+T8	ADP-ribosylation 2116 2132	ADP-ribosylation
+E1	Phosphorylation:T7 Theme:T5
+M1	Speculation E1
+E2	ADP-ribosylation:T8 Theme:T5
+M2	Speculation E2

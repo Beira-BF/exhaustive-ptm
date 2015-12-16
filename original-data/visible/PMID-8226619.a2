@@ -1,0 +1,20 @@
+*	Equiv T2 T3
+*	Equiv T4 T5
+T16	ADP-ribosylation 289 305	ADP-ribosylation
+T17	ADP-ribosylation 395 407	modification
+T18	Catalysis 395 407	modification
+T19	ADP-deribosylation 506 513	removal
+T20	Catalysis 506 513	removal
+T21	ADP-ribosylation 1157 1163	adding
+T22	Catalysis 1157 1163	adding
+T23	ADP-deribosylation 1168 1176	removing
+T24	Catalysis 1168 1176	removing
+E1	ADP-ribosylation:T16 Theme:T1
+E2	ADP-ribosylation:T17 Theme:T1
+E3	Catalysis:T18 Theme:E2 Cause:T2
+E4	ADP-deribosylation:T19 Theme:T1
+E5	Catalysis:T20 Theme:E4 Cause:T4
+E6	ADP-ribosylation:T21 Theme:T15
+E7	Catalysis:T22 Theme:E6 Cause:T13
+E8	ADP-deribosylation:T23 Theme:T15
+E9	Catalysis:T24 Theme:E8 Cause:T14

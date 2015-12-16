@@ -1,0 +1,20 @@
+*	Equiv T2 T3
+T17	Palmitoylation 0 14	Palmitoylation
+T18	Palmitoylation 148 161	palmitoylated
+T19	Palmitoylation 237 251	Palmitoylation
+T20	Palmitoylation 542 556	palmitoylation
+T21	Palmitoylation 853 868	unpalmitoylated
+T22	Palmitoylation 896 910	palmitoylation
+T23	Palmitoylation 1068 1082	Palmitoylation
+T24	Palmitoylation 1231 1244	palmitoylated
+T25	Palmitoylation 1668 1682	palmitoylation
+E1	Palmitoylation:T17 Theme:T1
+E2	Palmitoylation:T18 Theme:T2
+E3	Palmitoylation:T19 Theme:T5
+E4	Palmitoylation:T20 Theme:T7
+E5	Palmitoylation:T21 Theme:T13
+M1	Negation E5
+E6	Palmitoylation:T22 Theme:T13
+E7	Palmitoylation:T23 Theme:T13
+E8	Palmitoylation:T24 Theme:T13
+E9	Palmitoylation:T25 Theme:T16

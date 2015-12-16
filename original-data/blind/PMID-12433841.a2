@@ -1,0 +1,6 @@
+T5	Palmitoylation 474 490	S-palmitoylation
+T6	Depalmitoylation 474 490	S-palmitoylation
+E1	Palmitoylation:T5 Theme:T1
+M1	Negation E1
+E2	Depalmitoylation:T6 Theme:T1
+M2	Negation E2

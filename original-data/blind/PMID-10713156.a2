@@ -1,0 +1,26 @@
+T44	Neddylation 6 18	modification
+T45	Phosphorylation 136 151	phosphorylation
+T46	Ubiquitination 162 176	ubiquitination
+T47	Ubiquitination 266 280	ubiquitination
+T48	Neddylation 397 409	modification
+T49	Ubiquitination 500 514	ubiquitination
+T50	Neddylation 548 558	conjugated
+T51	Phosphorylation 619 633	phosphorylated
+T52	Neddylation 693 703	conjugates
+T53	Neddylation 800 808	modified
+T54	Ubiquitination 945 959	ubiquitination
+T55	Ubiquitination 1171 1185	ubiquitination
+T56	Neddylation 1261 1269	ligation
+E1	Neddylation:T44 Theme:T2
+E2	Phosphorylation:T45 Theme:T5
+E3	Ubiquitination:T46 Theme:T5
+E4	Ubiquitination:T47 Theme:T6
+E5	Neddylation:T48 Theme:T10
+E6	Ubiquitination:T49 Theme:T13
+E7	Neddylation:T50 Theme:T15
+E8	Phosphorylation:T51 Theme:T17
+E9	Neddylation:T52 Theme:T19
+E10	Neddylation:T53 Theme:T22
+E11	Ubiquitination:T54 Theme:T27
+E12	Ubiquitination:T55 Theme:T35
+E13	Neddylation:T56 Theme:T39

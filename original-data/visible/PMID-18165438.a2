@@ -1,0 +1,14 @@
+T3	Acetylation 648 659	acetylation
+T4	Methylation 661 672	methylation
+T5	Phosphorylation 674 689	phosphorylation
+T6	Ubiquitination 691 705	ubiquitylation
+T7	Sumoylation 707 718	sumoylation
+T8	ADP-ribosylation 720 736	ADP ribosylation
+T9	Other_PTM 738 749	deimination
+E1	Acetylation:T3 Theme:T1
+E2	Methylation:T4 Theme:T1
+E3	Phosphorylation:T5 Theme:T1
+E4	Ubiquitination:T6 Theme:T1
+E5	Sumoylation:T7 Theme:T1
+E6	ADP-ribosylation:T8 Theme:T1
+E7	Other_PTM:T9 Theme:T1

@@ -1,0 +1,8 @@
+*	Equiv T5 T6
+T14	Palmitoylation 814 828	palmitoylation
+T15	Catalysis 1134 1143	regulated
+T16	Depalmitoylation 1144 1160	depalmitoylation
+E1	Palmitoylation:T14 Theme:T7
+M1	Speculation E1
+E2	Catalysis:T15 Theme:E3 Cause:T11
+E3	Depalmitoylation:T16 Theme:T12

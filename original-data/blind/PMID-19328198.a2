@@ -1,0 +1,11 @@
+T15	Palmitoylation 68 82	palmitoylation
+T16	Entity 544 553	cysteines
+T17	Palmitoylation 607 621	palmitoylation
+T18	Palmitoylation 660 673	palmitoylated
+T19	Entity 1331 1340	cysteines
+T20	Palmitoylation 1419 1433	palmitoylation
+E1	Palmitoylation:T15 Theme:T1
+E2	Palmitoylation:T17 Theme:T4
+M1	Negation E2
+E3	Palmitoylation:T18 Theme:T4 Site:T16
+E4	Palmitoylation:T20 Theme:T13 Site:T19

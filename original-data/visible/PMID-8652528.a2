@@ -1,0 +1,10 @@
+T7	Geranylgeranylation 413 431	geranylgeranylated
+T8	Methylation 620 630	methylated
+T9	Methylation 635 647	demethylated
+T10	Methylation 1160 1173	demethylation
+E1	Geranylgeranylation:T7 Theme:T2
+E2	Methylation:T8 Theme:T4
+E3	Methylation:T9 Theme:T4
+M1	Negation E3
+E4	Methylation:T10 Theme:T6
+M2	Negation E4

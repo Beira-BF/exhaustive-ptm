@@ -1,0 +1,18 @@
+*	Equiv T3 T4
+T26	Ubiquitination 81 95	ubiquitination
+T27	Phosphorylation 292 307	phosphorylation
+T28	Entity 318 325	Thr-187
+T29	Ubiquitination 355 369	ubiquitination
+T30	Ubiquitination 459 473	ubiquitination
+T31	Ubiquitination 666 680	ubiquitination
+T32	Ubiquitination 897 911	ubiquitination
+T33	Phosphorylation 1223 1238	phosphorylation
+T34	Ubiquitination 1315 1329	ubiquitination
+E1	Ubiquitination:T26 Theme:T2
+E2	Phosphorylation:T27 Theme:T6 Site:T28
+E3	Ubiquitination:T29 Theme:T6
+E4	Ubiquitination:T30 Theme:T8
+E5	Ubiquitination:T31 Theme:T12
+E6	Ubiquitination:T32 Theme:T19
+E7	Phosphorylation:T33 Theme:T23
+E8	Ubiquitination:T34 Theme:T24

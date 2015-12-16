@@ -1,0 +1,11 @@
+*	Equiv T5 T6
+*	Equiv T11 T12
+T19	Sumoylation 504 521	SUMO modification
+T20	Sumoylation 1063 1073	SUMOylated
+T21	Sumoylation 1324 1334	SUMOylated
+E1	Sumoylation:T19 Theme:T2
+E2	Sumoylation:T19 Theme:T3
+E3	Sumoylation:T19 Theme:T4
+E4	Sumoylation:T19 Theme:T6
+E5	Sumoylation:T20 Theme:T12
+E6	Sumoylation:T21 Theme:T17

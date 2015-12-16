@@ -1,0 +1,18 @@
+*	Equiv T3 T4
+T12	Sulfation 99 108	sulfation
+T13	Entity 112 125	tyrosines 276
+T14	Entity 127 130	278
+T15	Entity 136 139	279
+T16	Sulfation 281 290	sulfation
+T17	Entity 300 321	tyrosine residues 276
+T18	Entity 323 326	278
+T19	Entity 332 335	279
+T20	Sulfation 467 476	sulfation
+T21	Entity 480 489	tyrosines
+E1	Sulfation:T12 Theme:T1 Site:T13
+E2	Sulfation:T12 Theme:T1 Site:T14
+E3	Sulfation:T12 Theme:T1 Site:T15
+E4	Sulfation:T16 Site:T17 Theme:T5
+E5	Sulfation:T16 Site:T19 Theme:T5
+E6	Sulfation:T16 Site:T18 Theme:T5
+E7	Sulfation:T20 Theme:T5 Site:T21

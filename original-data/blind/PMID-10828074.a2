@@ -1,0 +1,4 @@
+*	Equiv T13 T14
+T28	Neddylation 653 670	NEDD8 conjugation
+E1	Neddylation:T28 Theme:T14
+E2	Neddylation:T28 Theme:T15

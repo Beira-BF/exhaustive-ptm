@@ -1,0 +1,10 @@
+T20	Sumoylation 48 59	sumoylation
+T21	Sumoylation 461 477	poly-sumoylation
+T22	Ubiquitination 946 960	ubiquitination
+T23	Sumoylation 1198 1209	sumoylation
+T24	Ubiquitination 1228 1242	ubiquitination
+E1	Sumoylation:T20 Theme:T1
+E2	Sumoylation:T21 Theme:T5
+E3	Ubiquitination:T22 Theme:T14
+E4	Sumoylation:T23 Theme:T19
+E5	Ubiquitination:T24 Theme:T19

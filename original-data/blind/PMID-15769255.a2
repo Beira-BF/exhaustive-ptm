@@ -1,0 +1,10 @@
+T27	Neddylation 204 218	Nedd8-modified
+T28	Deneddylation 869 880	deneddylate
+T29	Catalysis 869 880	deneddylate
+E1	Neddylation:T27 Theme:T5
+E2	Deneddylation:T28 Theme:T17
+E3	Catalysis:T29 Theme:E2 Cause:T16
+E4	Deneddylation:T28 Theme:T18
+E5	Catalysis:T29 Theme:E4 Cause:T16
+E6	Deneddylation:T28 Theme:T19
+E7	Catalysis:T29 Theme:E6 Cause:T16

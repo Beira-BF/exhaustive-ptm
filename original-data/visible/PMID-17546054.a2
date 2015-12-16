@@ -1,0 +1,6 @@
+T32	Catalysis 677 696	self-ubiquitination
+T33	Ubiquitination 677 696	self-ubiquitination
+T34	Neddylation 1258 1269	NEDDylation
+E1	Ubiquitination:T33 Theme:T15
+E2	Catalysis:T32 Theme:E1 Cause:T15
+E3	Neddylation:T34 Theme:T28

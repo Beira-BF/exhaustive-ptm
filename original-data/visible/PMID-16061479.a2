@@ -1,0 +1,18 @@
+*	Equiv T4 T5
+*	Equiv T7 T8
+T25	Sumoylation 13 24	sumoylation
+T26	Sumoylation 506 517	sumoylation
+T27	Entity 542 548	Lys391
+T28	Entity 553 559	Lys866
+T29	Sumoylation 719 730	Sumoylation
+T30	Sumoylation 865 876	sumoylation
+T31	Sumoylation 1207 1218	sumoylation
+T32	Sumoylation 1263 1274	sumoylation
+E1	Sumoylation:T25 Theme:T2
+E2	Sumoylation:T26 Theme:T10 Site:T27
+E3	Sumoylation:T26 Theme:T10 Site:T28
+E4	Sumoylation:T29 Theme:T13
+E5	Sumoylation:T30 Theme:T14
+M1	Negation E5
+E6	Sumoylation:T31 Theme:T22
+E7	Sumoylation:T32 Theme:T24

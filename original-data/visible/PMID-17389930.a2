@@ -1,0 +1,18 @@
+T10	Entity 0 8	Tyrosine
+T11	Sulfation 9 18	sulfation
+T12	Sulfation 320 329	sulfation
+T13	Sulfation 456 465	sulfation
+T14	Sulfation 542 551	sulfation
+T15	Sulfation 700 708	sulfated
+T16	Sulfation 868 876	sulfated
+T17	Sulfation 900 909	sulfation
+T18	Entity 913 928	tyrosyl residue
+T19	Sulfation 1052 1061	sulfation
+E1	Sulfation:T11 Theme:T1 Site:T10
+E2	Sulfation:T12 Theme:T2
+E3	Sulfation:T13 Theme:T3
+E4	Sulfation:T14 Theme:T4
+E5	Sulfation:T15 Theme:T6
+E6	Sulfation:T16 Theme:T8
+E7	Sulfation:T17 Theme:T8 Site:T18
+E8	Sulfation:T19 Theme:T9

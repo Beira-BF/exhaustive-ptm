@@ -1,0 +1,5 @@
+T18	Decarboxylation 1280 1295	decarboxylation
+T19	Entity 1303 1308	Asp66
+T20	Decarboxylation 1568 1583	decarboxylation
+E1	Decarboxylation:T18 Site:T19 Theme:T9
+E2	Decarboxylation:T20 Theme:T9

@@ -1,0 +1,13 @@
+T8	Entity 0 8	Tyrosine
+T9	Sulfation 9 18	sulfation
+T10	Sulfation 415 423	sulfated
+T11	Entity 460 468	tyrosine
+T12	Sulfation 713 722	sulfation
+T13	Entity 726 731	tyr88
+T14	Entity 899 906	yrosine
+T15	Sulfation 907 916	sulfation
+E1	Sulfation:T9 Site:T8 Theme:T1
+E2	Sulfation:T10 Theme:T5 Site:T11
+E3	Sulfation:T12 Theme:T6 Site:T13
+E4	Sulfation:T15 Site:T14 Theme:T7
+M1	Speculation E4

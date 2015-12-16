@@ -1,0 +1,13 @@
+T7	Entity 845 858	lipoyl domain
+T8	Lipoylation 957 969	modification
+T9	Catalysis 957 969	modification
+T10	Biotinylation 1017 1029	modification
+T11	Catalysis 1017 1029	modification
+T12	Entity 1270 1284	lysine residue
+T13	Lipoylation 1298 1308	lipoylated
+E1	Lipoylation:T8 Theme:T3 Site:T7
+E2	Catalysis:T9 Theme:E1 Cause:T4
+E3	Biotinylation:T10 Site:T7 Theme:T3
+M1	Negation E3
+E4	Catalysis:T11 Theme:E3 Cause:T5
+E5	Lipoylation:T13 Site:T12 Theme:T3

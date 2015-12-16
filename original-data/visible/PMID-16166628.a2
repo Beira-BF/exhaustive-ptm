@@ -1,0 +1,39 @@
+T32	Deacetylation 313 326	deacetylation
+T33	Catalysis 313 326	deacetylation
+T34	Catalysis 493 503	sumoylated
+T35	Sumoylation 493 503	sumoylated
+T36	Catalysis 557 568	sumoylation
+T37	Sumoylation 557 568	sumoylation
+T38	Sumoylation 620 631	sumoylation
+T39	Catalysis 696 707	sumoylation
+T40	Sumoylation 696 707	sumoylation
+T41	Entity 713 719	lysine
+T42	Acetylation 752 763	acetylation
+T43	Catalysis 752 763	acetylation
+T44	Acetylation 854 865	acetylation
+T45	Sumoylation 870 881	sumoylation
+T46	Acetylation 924 935	acetylation
+T47	Sumoylation 1035 1046	sumoylation
+T48	Deacetylation 1233 1246	deacetylation
+T49	Catalysis 1233 1246	deacetylation
+T50	Sumoylation 1376 1387	sumoylation
+T51	Acetylation 1392 1403	acetylation
+E1	Deacetylation:T32 Theme:T10
+E2	Catalysis:T33 Theme:E1 Cause:T7
+E3	Sumoylation:T35 Theme:T13
+E4	Catalysis:T34 Theme:E3 Cause:T14
+E5	Sumoylation:T37 Theme:T16
+E6	Catalysis:T36 Theme:E5 Cause:T15
+E7	Sumoylation:T38 Theme:T18
+E8	Sumoylation:T40 Theme:T22 Site:T41
+E9	Catalysis:T39 Theme:T22 Cause:T19
+E10	Acetylation:T42 Theme:T22 Site:T41
+E11	Catalysis:T43 Theme:E10 Cause:T21
+E12	Acetylation:T44 Theme:T22
+E13	Sumoylation:T45 Theme:T22
+E14	Acetylation:T46 Theme:T23
+E15	Sumoylation:T47 Theme:T23
+E16	Deacetylation:T48 Theme:T29
+E17	Catalysis:T49 Theme:E16 Cause:T28
+E18	Sumoylation:T50 Theme:T31
+E19	Acetylation:T51 Theme:T31

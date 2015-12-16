@@ -1,0 +1,22 @@
+T11	Ubiquitination 540 554	ubiquitylation
+T12	Entity 714 720	lysine
+T13	Deubiquitination 760 767	removal
+T14	Ubiquitination 772 782	attachment
+T15	Ubiquitination 809 823	Ubiquitylation
+T16	Entity 891 901	C-terminal
+T17	Neddylation 902 908	fusion
+T18	Ubiquitination 1009 1023	ubiquitylation
+T19	Neddylation 1025 1035	Attachment
+T20	Ubiquitination 1134 1147	ubiquitylated
+T21	Neddylation 1151 1161	NEDDylated
+T22	Ubiquitination 1442 1456	ubiquitylation
+E1	Ubiquitination:T11 Theme:T1
+E2	Deubiquitination:T13 Theme:T1 Site:T12
+E3	Ubiquitination:T14 Theme:T1 Site:T12
+E4	Ubiquitination:T15 Theme:T1
+E5	Neddylation:T17 Theme:T1 Site:T16
+E6	Ubiquitination:T18 Theme:T1
+E7	Neddylation:T19 Theme:T1
+E8	Ubiquitination:T20 Theme:T1
+E9	Neddylation:T21 Theme:T1
+E10	Ubiquitination:T22 Theme:T10

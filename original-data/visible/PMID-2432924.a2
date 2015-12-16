@@ -1,0 +1,7 @@
+*	Equiv T3 T4
+T12	Acylation 26 34	acylated
+T13	Acylation 104 109	bound
+T14	Acylation 827 835	acylated
+E1	Acylation:T12 Theme:T1
+E2	Acylation:T13 Theme:T2
+E3	Acylation:T14 Theme:T3

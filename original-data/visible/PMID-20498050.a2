@@ -1,0 +1,4 @@
+*	Equiv T2 T3
+T25	Sumoylation 678 689	conjugation
+T26	Entity 729 735	Lys274
+E1	Sumoylation:T25 Theme:T14 Site:T26

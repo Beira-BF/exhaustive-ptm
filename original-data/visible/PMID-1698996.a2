@@ -1,0 +1,4 @@
+T13	Myristoylation 1282 1294	myristylated
+T14	Myristoylation 1411 1423	modification
+E1	Myristoylation:T13 Theme:T11
+E2	Myristoylation:T14 Theme:T12

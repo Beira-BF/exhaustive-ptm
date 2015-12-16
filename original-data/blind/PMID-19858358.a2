@@ -1,0 +1,8 @@
+*	Equiv T2 T3
+*	Equiv T6 T7
+T18	Palmitoylation 15 28	palmitoylated
+T19	Palmitoylation 607 620	palmitoylated
+T20	Palmitoylation 1932 1945	palmitoylated
+E1	Palmitoylation:T18 Theme:T1
+E2	Palmitoylation:T19 Theme:T4
+E3	Palmitoylation:T20 Theme:T15

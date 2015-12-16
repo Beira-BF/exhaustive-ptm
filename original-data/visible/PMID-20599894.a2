@@ -1,0 +1,14 @@
+*	Equiv T3 T4
+*	Equiv T9 T10
+*	Equiv T11 T12
+*	Equiv T14 T15
+T30	Catalysis 7 16	dependent
+T31	Palmitoylation 17 31	palmitoylation
+T32	Palmitoylation 539 552	palmitoylates
+T33	Catalysis 539 552	palmitoylates
+T34	Palmitoylation 1306 1319	palmitoylated
+E1	Catalysis:T30 Theme:E2 Cause:T1
+E2	Palmitoylation:T31 Theme:T2
+E3	Palmitoylation:T32 Theme:T6
+E4	Catalysis:T33 Theme:E3 Cause:T5
+E5	Palmitoylation:T34 Theme:T21

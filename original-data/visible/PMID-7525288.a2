@@ -1,0 +1,10 @@
+*	Equiv T2 T3
+T11	Glycosylation 539 555	N-glycosylations
+T12	Glycosylation 560 576	O-glycosylations
+T13	Phosphorylation 1009 1024	phosphorylation
+T14	Entity 1037 1052	serine residues
+T15	Phosphorylation 1258 1273	phosphorylation
+E1	Glycosylation:T11 Theme:T5
+E2	Glycosylation:T12 Theme:T5
+E3	Phosphorylation:T13 Theme:T8 Site:T14
+E4	Phosphorylation:T15 Theme:T10

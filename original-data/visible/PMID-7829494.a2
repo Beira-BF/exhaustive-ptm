@@ -1,0 +1,6 @@
+T10	ADP-ribosylation 0 16	ADP-ribosylation
+T11	ADP-ribosylation 549 565	ADP-ribosylation
+T12	ADP-ribosylation 988 1004	ADP-ribosylation
+E1	ADP-ribosylation:T10 Theme:T1
+E2	ADP-ribosylation:T11 Theme:T5
+E3	ADP-ribosylation:T12 Theme:T9

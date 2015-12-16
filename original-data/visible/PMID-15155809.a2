@@ -1,0 +1,4 @@
+T17	Lipidation 67 77	lipidation
+T18	Lipidation 1134 1145	conjugation
+E1	Lipidation:T17 Theme:T2
+E2	Lipidation:T18 Theme:T12

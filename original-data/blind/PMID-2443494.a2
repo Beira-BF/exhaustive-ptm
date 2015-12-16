@@ -1,0 +1,36 @@
+*	Equiv T2 T3
+T9	Acylation 153 158	bound
+T10	Palmitoylation 221 230	acylation
+T11	Palmitoylation 477 486	acylation
+T12	Catalysis 500 513	autocatalytic
+T13	Deacylation 729 740	deacylation
+T14	Palmitoylation 758 766	acylated
+T15	Palmitoylation 834 843	eacylated
+T16	Palmitoylation 934 943	acylation
+T17	Palmitoylation 1077 1082	bound
+T18	Acylation 1341 1349	acylated
+T19	Acylation 1499 1507	acylated
+T20	Acylation 1607 1615	acylated
+T21	Deacetylation 1647 1657	deacylated
+T22	Acylation 1754 1763	acylation
+T23	Acylation 1836 1844	acylated
+T24	Acylation 1900 1909	acylation
+T25	Catalysis 1900 1909	acylation
+E1	Acylation:T9 Theme:T2
+E2	Palmitoylation:T10 Theme:T4
+E3	Palmitoylation:T11 Theme:T4
+E4	Catalysis:T12 Theme:E3 Cause:T4
+E5	Deacylation:T13 Theme:T5
+E6	Palmitoylation:T14 Theme:T5
+E7	Palmitoylation:T15 Theme:T5
+E8	Palmitoylation:T16 Theme:T5
+M1	Negation E8
+E9	Palmitoylation:T17 Theme:T5
+E10	Acylation:T18 Theme:T6
+E11	Acylation:T19 Theme:T6
+E12	Acylation:T20 Theme:T7
+E13	Deacetylation:T21 Theme:T8
+E14	Acylation:T22 Theme:T5
+E15	Acylation:T23 Theme:T5
+E16	Acylation:T24 Theme:T5
+E17	Catalysis:T25 Theme:E16 Cause:T5

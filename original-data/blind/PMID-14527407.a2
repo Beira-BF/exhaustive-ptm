@@ -1,0 +1,7 @@
+*	Equiv T1 T2
+T12	Entity 858 866	His(715)
+T13	ADP-ribosylation 912 928	ADP ribosylation
+T14	Catalysis 912 928	ADP ribosylation
+E1	ADP-ribosylation:T13 Theme:T5 Site:T12
+E2	Catalysis:T14 Theme:E1 Cause:T6
+E3	Catalysis:T14 Theme:E1 Cause:T7

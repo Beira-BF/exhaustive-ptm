@@ -1,0 +1,19 @@
+T7	Geranylgeranylation 24 43	geranylgeranylation
+T8	Farnesylation 48 61	farnesylation
+T9	Farnesylation 160 173	farnesylation
+T10	Geranylgeranylation 177 196	geranylgeranylation
+T11	Prenylation 237 248	prenylation
+T12	Farnesylation 268 280	farnesylated
+T13	Farnesylation 356 368	farnesylated
+T14	Farnesylation 459 472	farnesylation
+T15	Geranylgeranylation 505 523	geranylgeranylated
+E1	Geranylgeranylation:T7 Theme:T1
+E2	Farnesylation:T8 Theme:T1
+E3	Farnesylation:T9 Theme:T2
+E4	Geranylgeranylation:T10 Theme:T2
+E5	Prenylation:T11 Theme:T3
+E6	Farnesylation:T12 Theme:T4
+E7	Farnesylation:T13 Theme:T5
+E8	Farnesylation:T14 Theme:T6
+M1	Negation E8
+E9	Geranylgeranylation:T15 Theme:T6

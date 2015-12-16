@@ -1,0 +1,13 @@
+*	Equiv T1 T2
+T12	Deamidation 230 241	deamidation
+T13	Entity 245 250	Asn71
+T14	Oxidation 407 416	oxidation
+T15	Entity 420 426	Cys126
+T16	Deamidation 1101 1111	deamidated
+T17	Deamidation 1289 1299	deamidated
+T18	Entity 1303 1308	Asn15
+E1	Deamidation:T12 Site:T13 Theme:T3
+E2	Oxidation:T14 Site:T15 Theme:T4
+E3	Deamidation:T16 Theme:T10
+M1	Negation E3
+E4	Deamidation:T17 Site:T18 Theme:T9

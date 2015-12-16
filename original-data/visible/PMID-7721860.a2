@@ -1,0 +1,8 @@
+*	Equiv T2 T3
+T12	Prenylation 800 813	isoprenylated
+T13	Prenylation 876 890	isoprenylation
+T14	Prenylation 1192 1206	isoprenylation
+E1	Prenylation:T12 Theme:T7
+M1	Speculation E1
+E2	Prenylation:T13 Theme:T7
+E3	Prenylation:T14 Theme:T11

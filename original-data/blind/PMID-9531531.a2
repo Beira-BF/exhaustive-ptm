@@ -1,0 +1,11 @@
+T33	Neddylation 0 12	Modification
+T34	Neddylation 309 317	modified
+T35	Neddylation 432 443	conjugation
+T36	Neddylation 946 957	conjugation
+T37	Neddylation 1125 1133	modified
+E1	Neddylation:T33 Theme:T1
+E2	Neddylation:T34 Theme:T8
+E3	Neddylation:T35 Theme:T11
+E4	Neddylation:T36 Theme:T25
+E5	Neddylation:T37 Theme:T28
+M1	Negation E5

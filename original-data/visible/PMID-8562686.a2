@@ -1,0 +1,8 @@
+T7	Glycosylation 1630 1632	N-
+T8	Glycosylation 1637 1651	O-glycosylated
+T9	Glycosylation 1714 1728	O-glycosylated
+T10	Glycosylation 1854 1868	O-glycosylated
+E1	Glycosylation:T7 Theme:T5
+E2	Glycosylation:T8 Theme:T5
+E3	Glycosylation:T9 Theme:T5
+E4	Glycosylation:T10 Theme:T6

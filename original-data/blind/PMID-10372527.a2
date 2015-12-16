@@ -1,0 +1,5 @@
+*	Equiv T2 T3
+T4	Palmitoylation 136 144	acylated
+T5	Palmitoylation 859 867	acylated
+E1	Palmitoylation:T4 Theme:T1
+E2	Palmitoylation:T5 Theme:T2

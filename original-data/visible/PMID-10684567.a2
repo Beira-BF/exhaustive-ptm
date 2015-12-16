@@ -1,0 +1,23 @@
+*	Equiv T3 T4
+T11	Geranylgeranylation 15 34	geranylgeranylation
+T12	Entity 42 51	C-termini
+T13	Geranylgeranylation 198 217	geranylgeranylation
+T14	Entity 225 233	CAAX box
+T15	Geranylgeranylation 324 342	geranylgeranylated
+T16	Entity 350 359	C-termini
+T17	Catalysis 1015 1023	transfer
+T18	Geranylgeranylation 1015 1023	transfer
+T19	Catalysis 1115 1134	geranylgeranylation
+T20	Geranylgeranylation 1115 1134	geranylgeranylation
+T21	Geranylgeranylation 1208 1227	geranylgeranylation
+T22	Entity 1235 1243	CAAX box
+E1	Geranylgeranylation:T11 Theme:T1 Site:T12
+E2	Geranylgeranylation:T13 Theme:T2 Site:T14
+E3	Geranylgeranylation:T15 Theme:T3 Site:T16
+E4	Geranylgeranylation:T18 Theme:T8
+M1	Negation E4
+E5	Catalysis:T17 Theme:E4 Cause:T9
+M2	Negation E5
+E6	Geranylgeranylation:T20 Theme:T7
+E7	Catalysis:T19 Theme:E6 Cause:T9
+E8	Geranylgeranylation:T21 Theme:T10 Site:T22

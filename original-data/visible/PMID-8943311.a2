@@ -1,0 +1,38 @@
+T19	Entity 694 697	Cys
+T20	Acylation 762 776	fatty acylated
+T21	Acylation 792 801	acylation
+T22	Palmitoylation 1878 1891	incorporation
+T23	Palmitoylation 1929 1942	Incorporation
+T24	Entity 2075 2080	Cys57
+T25	Palmitoylation 2137 2150	palmitoylated
+T26	Entity 2169 2174	Cys35
+T27	Entity 2184 2189	Cys54
+T28	Entity 2212 2217	Cys36
+T29	Acylation 2230 2244	fatty acylated
+T30	Palmitoylation 2230 2244	fatty acylated
+T31	Entity 2246 2251	Cys57
+T32	Entity 2273 2278	Cys56
+T33	Palmitoylation 2295 2308	palmitoylated
+E1	Acylation:T20 Site:T19 Theme:T1
+E2	Acylation:T20 Theme:T2 Site:T19
+E3	Acylation:T20 Site:T19 Theme:T3
+E4	Acylation:T20 Site:T19 Theme:T4
+E5	Acylation:T20 Site:T19 Theme:T5
+E6	Acylation:T21 Theme:T5
+E7	Acylation:T21 Theme:T1
+E8	Acylation:T21 Theme:T2
+E9	Acylation:T21 Theme:T3
+E10	Acylation:T21 Theme:T4
+E11	Palmitoylation:T22 Theme:T10
+E12	Palmitoylation:T23 Theme:T11
+M1	Negation E12
+E13	Palmitoylation:T25 Theme:T12 Site:T24
+E14	Acylation:T29 Site:T26 Theme:T13
+E15	Acylation:T29 Site:T27 Theme:T14
+E16	Acylation:T29 Site:T27 Theme:T15
+E17	Palmitoylation:T30 Site:T28 Theme:T16
+E18	Palmitoylation:T33 Site:T31 Theme:T17
+M2	Negation E18
+E19	Palmitoylation:T33 Site:T32 Theme:T18
+M3	Negation E19
+M4	Speculation E19

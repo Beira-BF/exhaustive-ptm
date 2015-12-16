@@ -1,0 +1,24 @@
+T8	Palmitoylation 14 22	acylated
+T9	Acylation 14 22	acylated
+T10	Entity 62 74	cysteine 766
+T11	Palmitoylation 174 181	labeled
+T12	Palmitoylation 367 372	bound
+T13	Palmitoylation 499 508	acylation
+T14	Entity 719 725	Cys766
+T15	Palmitoylation 756 764	labeling
+T16	Palmitoylation 864 872	acylated
+T17	Acylation 864 872	acylated
+T18	Entity 876 882	Cys766
+T19	Acylation 920 929	acylation
+T20	Palmitoylation 920 929	acylation
+E1	Palmitoylation:T8 Theme:T1 Site:T10
+E2	Acylation:T9 Theme:T1 Site:T10
+E3	Palmitoylation:T11 Theme:T2
+E4	Palmitoylation:T12 Theme:T3
+E5	Palmitoylation:T13 Theme:T3
+E6	Palmitoylation:T15 Theme:T5 Site:T14
+M1	Negation E6
+E7	Palmitoylation:T16 Theme:T6 Site:T18
+E8	Acylation:T17 Theme:T6 Site:T18
+E9	Palmitoylation:T20 Theme:T7
+E10	Acylation:T19 Theme:T7

@@ -1,0 +1,7 @@
+T33	Sumoylation 422 435	SUMO-modified
+T34	Entity 468 474	Lys-30
+T35	Entity 479 486	Lys-487
+T36	Entity 513 519	Lys-33
+E1	Sumoylation:T33 Theme:T9 Site:T34
+E2	Sumoylation:T33 Theme:T9 Site:T35
+E3	Sumoylation:T33 Theme:T10 Site:T36

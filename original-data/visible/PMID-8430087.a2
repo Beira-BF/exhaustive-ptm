@@ -1,0 +1,4 @@
+T12	Prenylation 0 19	Prenyl modification
+T13	Prenylation 1908 1927	prenyl modification
+E1	Prenylation:T12 Theme:T1
+E2	Prenylation:T13 Theme:T10

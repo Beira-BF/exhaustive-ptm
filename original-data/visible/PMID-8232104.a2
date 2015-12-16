@@ -1,0 +1,4 @@
+T4	Farnesylation 423 427	bind
+T5	Farnesylation 507 519	Farnesylated
+E1	Farnesylation:T4 Theme:T1
+E2	Farnesylation:T5 Theme:T2

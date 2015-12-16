@@ -1,0 +1,4 @@
+*	Equiv T3 T4 T5 T6
+T23	Phosphorylation 619 634	phosphorylation
+E1	Phosphorylation:T23 Theme:T12
+E2	Phosphorylation:T23 Theme:T13

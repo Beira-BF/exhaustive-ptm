@@ -1,0 +1,10 @@
+T9	Acylation 637 645	acylated
+T10	Entity 646 654	cysteine
+T11	Palmitoylation 806 822	nonpalmitoylated
+T12	Palmitoylation 1379 1393	palmitoylation
+E1	Acylation:T9 Site:T10 Theme:T1
+E2	Acylation:T9 Site:T10 Theme:T2
+E3	Palmitoylation:T11 Theme:T5
+M1	Negation E3
+E4	Palmitoylation:T12 Theme:T8
+E5	Palmitoylation:T12 Theme:T7

@@ -1,0 +1,19 @@
+*	Equiv T2 T3
+T11	Myristoylation 542 555	myristoylated
+T12	Myristoylation 975 988	myristoylated
+T13	Entity 1016 1022	lysine
+T14	Entity 1043 1052	lysine(s)
+T15	Myristoylation 1057 1065	acylated
+T16	Myristoylation 1391 1405	myristoylation
+T17	Entity 1409 1415	Lys-82
+T18	Entity 1420 1426	Lys-83
+T19	Myristoylation 1524 1537	myristoylated
+T20	Myristoylation 1576 1585	Acylation
+E1	Myristoylation:T11 Theme:T5
+E2	Myristoylation:T12 Site:T13 Theme:T7
+E3	Myristoylation:T15 Theme:T8 Site:T14
+M1	Speculation E3
+E4	Myristoylation:T16 Theme:T8 Site:T17
+E5	Myristoylation:T16 Theme:T8 Site:T18
+E6	Myristoylation:T19 Theme:T9
+E7	Myristoylation:T20 Theme:T10

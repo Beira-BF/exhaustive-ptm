@@ -1,0 +1,8 @@
+T12	Carboxylation 151 169	gamma-carboxylated
+T13	Carboxylation 324 341	undercarboxylated
+T14	Carboxylation 673 690	undercarboxylated
+T15	Carboxylation 974 991	undercarboxylated
+E1	Carboxylation:T12 Theme:T4
+E2	Carboxylation:T13 Theme:T5
+E3	Carboxylation:T14 Theme:T8
+E4	Carboxylation:T15 Theme:T11

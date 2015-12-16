@@ -1,0 +1,4 @@
+T9	ADP-ribosylation 403 419	ADP-ribosylation
+T10	Catalysis 403 419	ADP-ribosylation
+E1	ADP-ribosylation:T9 Theme:T6
+E2	Catalysis:T10 Theme:E1 Cause:T5

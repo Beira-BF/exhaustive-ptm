@@ -1,0 +1,19 @@
+T14	Carboxylation 37 56	gamma-carboxylation
+T15	Carboxylation 471 484	carboxylation
+T16	Carboxylation 634 646	carboxylated
+T17	Carboxylation 750 769	gamma-carboxylation
+T18	Carboxylation 878 890	carboxylated
+T19	Carboxylation 1156 1175	gamma-carboxylation
+T20	Carboxylation 1235 1254	gamma-carboxylation
+T21	Carboxylation 1345 1358	carboxylation
+T22	Carboxylation 1805 1817	carboxylated
+E1	Carboxylation:T14 Theme:T1
+E2	Carboxylation:T15 Theme:T3
+E3	Carboxylation:T16 Theme:T5
+E4	Carboxylation:T17 Theme:T6
+E5	Carboxylation:T18 Theme:T8
+E6	Carboxylation:T19 Theme:T6
+E7	Carboxylation:T20 Theme:T6
+E8	Carboxylation:T21 Theme:T6
+E9	Carboxylation:T22 Theme:T12
+E10	Carboxylation:T22 Theme:T11

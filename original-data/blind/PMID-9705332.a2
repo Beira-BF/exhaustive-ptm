@@ -1,0 +1,6 @@
+*	Equiv T4 T5
+T14	Prenylation 67 77	prenylated
+T15	Prenylation 732 744	incorporated
+T16	Entity 754 771	prenylation motif
+E1	Prenylation:T14 Theme:T1
+E2	Prenylation:T15 Site:T16 Theme:T9

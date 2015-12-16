@@ -1,0 +1,15 @@
+T5	Acylation 695 706	S-acylation
+T6	Entity 786 789	C21
+T7	Entity 794 798	C156
+T8	Entity 800 803	C21
+T9	Entity 866 870	C156
+T10	Acylation 897 908	S-acylation
+T11	Acylation 1017 1027	-acylation
+T12	Acylation 1198 1207	acylation
+E1	Acylation:T5 Theme:T1 Site:T6
+E2	Acylation:T5 Theme:T1 Site:T7
+E3	Acylation:T10 Site:T8 Theme:T1
+E4	Acylation:T10 Site:T9 Theme:T1
+E5	Acylation:T11 Theme:T2
+E6	Acylation:T12 Theme:T4
+M1	Negation E6

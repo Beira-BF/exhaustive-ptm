@@ -1,0 +1,14 @@
+*	Equiv T5 T6
+*	Equiv T11 T12
+*	Equiv T13 T14
+*	Equiv T23 T24
+T30	Deneddylation 768 777	decreased
+T31	Catalysis 768 777	decreased
+T32	Neddylation 778 790	modification
+T33	Ubiquitination 832 846	ubiquitination
+T34	Neddylation 1004 1015	NEDDylation
+E1	Deneddylation:T30 Theme:T17
+E2	Catalysis:T31 Theme:E1 Cause:T16
+E3	Neddylation:T32 Theme:T17
+E4	Ubiquitination:T33 Theme:T19
+E5	Neddylation:T34 Theme:T22

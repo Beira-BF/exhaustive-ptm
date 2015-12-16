@@ -1,0 +1,11 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+T10	Myristoylation 59 67	acylated
+T11	Acylation 59 67	acylated
+T12	Myristoylation 531 540	acylation
+T13	Acylation 531 540	acylation
+T14	Entity 585 600	lysine residues
+E1	Myristoylation:T10 Theme:T1
+E2	Acylation:T11 Theme:T1
+E3	Myristoylation:T12 Site:T14 Theme:T5
+E4	Acylation:T13 Theme:T5 Site:T14

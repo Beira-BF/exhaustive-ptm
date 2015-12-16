@@ -1,0 +1,4 @@
+*	Equiv T3 T4
+T18	Palmitoylation 1921 1935	palmitoylation
+T19	Entity 1954 1962	cysteine
+E1	Palmitoylation:T18 Theme:T14 Site:T19

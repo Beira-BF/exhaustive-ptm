@@ -1,0 +1,15 @@
+*	Equiv T1 T2
+T5	Myristoylation 167 181	myristolylated
+T6	Myristoylation 746 758	amide-linked
+T7	Entity 766 784	N-terminal residue
+T8	Phosphorylation 981 996	phosphorylation
+T9	Myristoylation 1092 1105	Incorporation
+T10	Demyristoylation 1484 1496	de-acylation
+T11	Myristoylation 1569 1579	unacylated
+E1	Myristoylation:T5 Theme:T1
+E2	Myristoylation:T6 Theme:T1 Site:T7
+E3	Phosphorylation:T8 Theme:T1
+E4	Myristoylation:T9 Theme:T1
+E5	Demyristoylation:T10 Theme:T1
+E6	Myristoylation:T11 Theme:T4
+M1	Negation E6

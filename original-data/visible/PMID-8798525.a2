@@ -1,0 +1,36 @@
+T13	Lipidation 195 204	lipidated
+T14	Farnesylation 352 360	farnesyl
+T15	Entity 361 369	cysteine
+T16	Methylation 376 382	methyl
+T17	Palmitoylation 410 418	attached
+T18	Entity 429 438	cysteines
+T19	Palmitoylation 515 524	transfers
+T20	Entity 574 591	cysteine residues
+T21	Entity 664 674	C terminus
+T22	Entity 1081 1087	serine
+T23	Palmitoylation 1089 1103	palmitoylation
+T24	Farnesylation 1127 1143	Non-farnesylated
+T25	Farnesylation 1191 1203	farnesylated
+T26	Farnesylation 1258 1274	non-farnesylated
+T27	Methylation 1276 1286	methylated
+E1	Lipidation:T13 Theme:T4
+E2	Lipidation:T13 Theme:T3
+E3	Farnesylation:T14 Site:T15 Theme:T3
+E4	Farnesylation:T14 Site:T15 Theme:T4
+E5	Methylation:T16 Site:T15 Theme:T4
+E6	Methylation:T16 Site:T15 Theme:T3
+E7	Palmitoylation:T17 Site:T18 Theme:T3
+E8	Palmitoylation:T17 Site:T18 Theme:T4
+E9	Palmitoylation:T19 Theme:T6 Site:T21
+E10	Palmitoylation:T19 Site:T20 Theme:T5
+E11	Palmitoylation:T23 Theme:T8 Site:T22
+M1	Negation E11
+E12	Palmitoylation:T23 Theme:T7 Site:T22
+M2	Negation E12
+E13	Farnesylation:T24 Theme:T9
+M3	Negation E13
+E14	Farnesylation:T25 Theme:T10
+E15	Farnesylation:T26 Theme:T11
+M4	Negation E15
+E16	Methylation:T27 Theme:T11
+M5	Negation E16

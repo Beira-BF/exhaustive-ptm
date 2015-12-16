@@ -1,0 +1,6 @@
+*	Equiv T2 T3
+*	Equiv T5 T6
+T22	Farnesylation 101 114	farnesylation
+T23	Phosphorylation 746 761	phosphorylation
+E1	Farnesylation:T22 Theme:T1
+E2	Phosphorylation:T23 Theme:T20

@@ -1,0 +1,24 @@
+T1	Protein 19 22	Fas
+T2	Protein 23 28	APO-1
+T3	Protein 96 103	sentrin
+T4	Protein 106 109	Fas
+T5	Protein 110 115	APO-1
+T6	Protein 120 134	TNF receptor 1
+T7	Protein 435 442	sentrin
+T8	Protein 465 468	Fas
+T9	Protein 469 474	APO-1
+T10	Protein 479 493	TNF receptor 1
+T11	Protein 507 511	FADD
+T12	Protein 512 517	MORT1
+T13	Protein 521 525	CD40
+T14	Protein 569 576	sentrin
+T15	Protein 628 631	Fas
+T16	Protein 632 637	APO-1
+T17	Protein 641 655	TNF receptor 1
+T18	Protein 671 678	Sentrin
+T19	Protein 734 743	ubiquitin
+T20	Protein 745 750	Nedd8
+T21	Protein 792 796	Smt3
+T22	Protein 818 825	sentrin
+T23	Protein 864 867	Fas
+T24	Protein 868 873	APO-1

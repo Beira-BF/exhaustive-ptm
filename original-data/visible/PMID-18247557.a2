@@ -1,0 +1,5 @@
+T25	Entity 1337 1340	K22
+T26	Entity 1345 1348	K48
+T27	Neddylation 1356 1366	neddylated
+E1	Neddylation:T27 Theme:T19 Site:T25
+E2	Neddylation:T27 Theme:T19 Site:T26

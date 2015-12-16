@@ -1,0 +1,13 @@
+T15	Lipoylation 521 527	lipoyl
+T16	Entity 528 534	lysine
+T17	Lipoylation 1772 1782	lipoylated
+T18	Catalysis 1772 1782	lipoylated
+T19	Lipoylation 1856 1866	lipoylated
+T20	Lipoylation 2266 2272	lipoyl
+T21	Entity 2273 2279	lysine
+E1	Lipoylation:T15 Site:T16 Theme:T1
+E2	Lipoylation:T15 Site:T16 Theme:T2
+E3	Lipoylation:T17 Theme:T12
+E4	Catalysis:T18 Theme:E3 Cause:T13
+E5	Lipoylation:T19 Theme:T14
+E6	Lipoylation:T20 Site:T21 Theme:T12

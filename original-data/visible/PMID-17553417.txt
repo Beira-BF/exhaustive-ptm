@@ -1,0 +1,2 @@
+Caspase-3 cleavage of GGA3 stabilizes BACE: implications for Alzheimer's disease. 
+BACE initiates the production of beta-amyloid (Abeta), the likely cause of Alzheimer's disease (AD). In this issue of Neuron, Tesco et al. show that during apoptosis caspase-3 cleaves the adaptor protein GGA3, which is required for BACE lysosomal degradation, consequently stabilizing BACE and elevating Abeta generation. 

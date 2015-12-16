@@ -1,0 +1,15 @@
+*	Equiv T2 T3
+*	Equiv T4 T5
+T28	Palmitoylation 94 107	palmitoylated
+T29	Entity 108 128	intracellular-domain
+T30	Entity 1070 1088	cytoplasmic domain
+T31	Palmitoylation 1092 1105	palmitoylated
+T32	Palmitoylation 1115 1129	palmitoylation
+T33	Palmitoylation 1298 1312	palmitoylation
+T34	Palmitoylation 1412 1429	non-palmitoylated
+E1	Palmitoylation:T28 Theme:T1 Site:T29
+E2	Palmitoylation:T31 Theme:T20 Site:T30
+E3	Palmitoylation:T32 Theme:T20
+E4	Palmitoylation:T33 Theme:T24
+E5	Palmitoylation:T34 Theme:T25
+M1	Negation E5

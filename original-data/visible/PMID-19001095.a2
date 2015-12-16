@@ -1,0 +1,17 @@
+T24	Palmitoylation 458 471	palmitoylated
+T25	Catalysis 458 471	palmitoylated
+T26	Palmitoylation 579 593	palmitoylation
+E1	Palmitoylation:T24 Theme:T5
+E2	Catalysis:T25 Theme:E12 Cause:T3
+E3	Palmitoylation:T24 Theme:T7
+E4	Catalysis:T25 Theme:E3 Cause:T4
+E5	Catalysis:T25 Theme:E1 Cause:T3
+E6	Palmitoylation:T24 Theme:T5
+E7	Catalysis:T25 Theme:E6 Cause:T4
+E8	Palmitoylation:T24 Theme:T6
+E9	Catalysis:T25 Theme:E8 Cause:T3
+E10	Palmitoylation:T24 Theme:T6
+E11	Catalysis:T25 Theme:E10 Cause:T4
+E12	Palmitoylation:T24 Theme:T7
+E13	Palmitoylation:T26 Theme:T10
+E14	Palmitoylation:T26 Theme:T11

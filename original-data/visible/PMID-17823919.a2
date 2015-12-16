@@ -1,0 +1,10 @@
+T22	Neddylation 48 59	neddylation
+T23	Neddylation 1592 1603	neddylation
+T24	Neddylation 1745 1755	neddylated
+T25	Neddylation 2011 2022	neddylation
+T26	Deneddylation 2023 2036	deneddylation
+E1	Neddylation:T22 Theme:T1
+E2	Neddylation:T23 Theme:T12
+E3	Neddylation:T24 Theme:T17
+E4	Neddylation:T25 Theme:T21
+E5	Deneddylation:T26 Theme:T21

@@ -1,0 +1,14 @@
+T20	Glycosylation 391 399	N-linked
+T21	Glycosylation 404 412	O-linked
+T22	Entity 413 425	carbohydrate
+T23	Glycosylation 581 602	N-linked glycosylated
+T24	Phosphorylation 1591 1605	phosphorylated
+T25	Sulfation 1610 1618	sulfated
+T26	Sulfation 1708 1716	sulfated
+E1	Glycosylation:T20 Theme:T3 Sidechain:T22
+E2	Glycosylation:T21 Theme:T3 Sidechain:T22
+E3	Glycosylation:T23 Theme:T5
+E4	Glycosylation:T23 Theme:T6
+E5	Phosphorylation:T24 Theme:T18
+E6	Sulfation:T25 Theme:T18
+E7	Sulfation:T26 Theme:T19

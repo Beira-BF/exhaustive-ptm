@@ -1,0 +1,6 @@
+*	Equiv T3 T4
+T20	Sumoylation 272 278	target
+E1	Sumoylation:T20 Theme:T7
+E2	Sumoylation:T20 Theme:T8
+E3	Sumoylation:T20 Theme:T9
+E4	Sumoylation:T20 Theme:T10

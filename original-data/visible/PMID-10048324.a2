@@ -1,0 +1,9 @@
+*	Equiv T2 T3
+T15	Biotinylation 639 649	attachment
+T16	Entity 672 678	lysine
+T17	Biotinylation 1134 1148	unbiotinylated
+T18	Biotinylation 1269 1281	biotinylated
+E1	Biotinylation:T15 Theme:T6 Site:T16
+E2	Biotinylation:T17 Theme:T11
+M1	Negation E2
+E3	Biotinylation:T18 Theme:T13

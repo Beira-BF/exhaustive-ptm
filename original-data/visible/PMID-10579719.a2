@@ -1,0 +1,5 @@
+*	Equiv T5 T6
+T10	Sumoylation 338 346	attached
+E1	Sumoylation:T10 Theme:T3
+E2	Sumoylation:T10 Theme:T4
+E3	Sumoylation:T10 Theme:T6

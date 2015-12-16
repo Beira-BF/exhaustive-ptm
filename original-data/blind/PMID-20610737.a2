@@ -1,0 +1,33 @@
+*	Equiv T2 T3
+*	Equiv T20 T21
+*	Equiv T28 T29
+T17	Palmitoylation 13 27	palmitoylation
+T18	Phosphorylation 32 47	phosphorylation
+T19	Phosphorylation 929 944	phosphorylation
+T20	Entity 948 960	threonine 16
+T21	Entity 962 968	Thr-16
+T22	Phosphorylation 1018 1032	phosphorylated
+T23	Entity 1033 1039	Thr-16
+T24	Phosphorylation 1087 1102	phosphorylation
+T25	Entity 1106 1112	Thr-16
+T26	Palmitoylation 1345 1359	palmitoylation
+T27	Catalysis 1345 1359	palmitoylation
+T28	Entity 1363 1374	cysteine 11
+T29	Entity 1376 1382	Cys-11
+T30	Entity 1475 1481	Thr-16
+T31	Phosphorylation 1482 1497	phosphorylation
+T32	Palmitoylation 1558 1572	palmitoylation
+T33	Entity 1576 1582	Cys-11
+E1	Palmitoylation:T17 Theme:T1
+E2	Phosphorylation:T18 Theme:T1
+E3	Phosphorylation:T19 Theme:T7 Site:T20
+M1	Speculation E3
+E4	Phosphorylation:T22 Theme:T8 Site:T23
+E5	Phosphorylation:T24 Theme:T9 Site:T25
+E6	Catalysis:T27 Cause:T13 Theme:E8
+M2	Speculation E6
+E7	Catalysis:T27 Cause:T12 Theme:E8
+M3	Speculation E7
+E8	Palmitoylation:T26 Theme:T11 Site:T28
+E9	Phosphorylation:T31 Theme:T14 Site:T30
+E10	Palmitoylation:T32 Theme:T14 Site:T33

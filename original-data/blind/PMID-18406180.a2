@@ -1,0 +1,16 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+*	Equiv T17 T18
+T14	Sumoylation 0 11	Sumoylation
+T15	Phosphorylation 926 941	phosphorylation
+T16	Sumoylation 958 966	modified
+T17	Entity 1039 1053	lysine residue
+T18	Entity 1055 1059	K159
+T19	Sumoylation 1137 1148	Sumoylation
+T20	Entity 1152 1156	K159
+T21	Sumoylation 1395 1406	sumoylation
+E1	Sumoylation:T14 Theme:T2
+E2	Phosphorylation:T15 Theme:T9
+E3	Sumoylation:T16 Theme:T9 Site:T18
+E4	Sumoylation:T19 Theme:T11 Site:T20
+E5	Sumoylation:T21 Theme:T13

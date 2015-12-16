@@ -1,0 +1,17 @@
+T12	Hydroxylation 92 110	beta-hydroxylation
+T13	Carboxylation 115 134	gamma-carboxylation
+T14	Glycosylation 212 225	glycosylation
+T15	Carboxylation 294 307	carboxylation
+T16	Entity 320 342	glutamic acid residues
+T17	Hydroxylation 383 401	beta-hydroxylation
+T18	Entity 405 418	aspartic acid
+T19	Carboxylation 2064 2083	gamma-carboxylation
+T20	Hydroxylation 2098 2116	beta-hydroxylation
+T21	Entity 2120 2136	aspartic acid 64
+E1	Hydroxylation:T12 Theme:T1
+E2	Carboxylation:T13 Theme:T1
+E3	Glycosylation:T14 Theme:T2
+E4	Carboxylation:T15 Theme:T2 Site:T16
+E5	Hydroxylation:T17 Site:T18 Theme:T2
+E6	Carboxylation:T19 Theme:T10
+E7	Hydroxylation:T20 Site:T21 Theme:T11

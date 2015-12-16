@@ -1,0 +1,45 @@
+*	Equiv T3 T4
+*	Equiv T11 T12
+T25	Sumoylation 0 11	SUMOylation
+T26	Entity 61 71	serine 203
+T27	Phosphorylation 72 87	phosphorylation
+T28	Catalysis 72 87	phosphorylation
+T29	Phosphorylation 336 351	phosphorylation
+T30	Sumoylation 356 367	SUMOylation
+T31	Sumoylation 517 527	SUMOylated
+T32	Entity 531 535	K194
+T33	Sumoylation 582 593	SUMOylation
+T34	Sumoylation 741 752	SUMOylation
+T35	Entity 771 775	S203
+T36	Phosphorylation 776 791	phosphorylation
+T37	Sumoylation 859 870	SUMOylation
+T38	Phosphorylation 894 909	phosphorylation
+T39	Entity 913 923	serine 203
+T40	Sumoylation 954 965	SUMOylation
+T41	Sumoylation 1106 1117	SUMOylation
+T42	Sumoylation 1301 1312	SUMOylation
+T43	Phosphorylation 1369 1384	phosphorylation
+T44	Sumoylation 1521 1532	SUMOylation
+T45	Phosphorylation 1605 1620	phosphorylation
+T46	Catalysis 1605 1620	phosphorylation
+E1	Sumoylation:T25 Theme:T1
+E2	Phosphorylation:T27 Theme:T1 Site:T26
+E3	Catalysis:T28 Theme:E2 Cause:T2
+E4	Phosphorylation:T29 Theme:T5
+E5	Sumoylation:T30 Theme:T5
+E6	Sumoylation:T31 Theme:T7 Site:T32
+E7	Sumoylation:T33 Theme:T7
+E8	Sumoylation:T34 Theme:T10
+E9	Phosphorylation:T36 Theme:T10 Site:T35
+E10	Sumoylation:T37 Theme:T10
+M1	Negation E10
+E11	Phosphorylation:T38 Theme:T13 Site:T39
+E12	Sumoylation:T40 Theme:T14
+M2	Negation E12
+E13	Sumoylation:T41 Theme:T16
+E14	Sumoylation:T42 Theme:T19
+M3	Negation E14
+E15	Phosphorylation:T43 Theme:T21
+E16	Sumoylation:T44 Theme:T22
+E17	Phosphorylation:T45 Theme:T24
+E18	Catalysis:T46 Theme:E17 Cause:T23

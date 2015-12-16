@@ -1,0 +1,23 @@
+*	Equiv T2 T3
+T10	Palmitoylation 0 18	Thiopalmitoylation
+T11	Palmitoylation 205 213	acylated
+T12	Entity 267 283	ysteine residues
+T13	Palmitoylation 706 718	thioacylated
+T14	Palmitoylation 797 808	nonacylated
+T15	Palmitoylation 835 848	thioacylation
+T16	Palmitoylation 982 993	nonacylated
+T17	Palmitoylation 1004 1016	thioacylated
+T18	Palmitoylation 1089 1097	acylated
+T19	Palmitoylation 1102 1113	nonacylated
+E1	Palmitoylation:T10 Theme:T1
+E2	Palmitoylation:T11 Theme:T2 Site:T12
+E3	Palmitoylation:T13 Theme:T7
+E4	Palmitoylation:T14 Theme:T7
+M1	Negation E4
+E5	Palmitoylation:T15 Theme:T7
+E6	Palmitoylation:T16 Theme:T8
+M2	Negation E6
+E7	Palmitoylation:T17 Theme:T8
+E8	Palmitoylation:T18 Theme:T8
+E9	Palmitoylation:T19 Theme:T8
+M3	Negation E9

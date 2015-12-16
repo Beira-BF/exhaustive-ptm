@@ -1,0 +1,10 @@
+T19	Ubiquitination 43 57	ubiquitination
+T20	Ubiquitination 309 323	ubiquitination
+T21	Ubiquitination 338 352	ubiquitination
+T22	Ubiquitination 840 854	ubiquitination
+T23	Ubiquitination 990 1004	ubiquitination
+E1	Ubiquitination:T19 Theme:T2
+E2	Ubiquitination:T20 Theme:T5
+E3	Ubiquitination:T21 Theme:T6
+E4	Ubiquitination:T22 Theme:T15
+E5	Ubiquitination:T23 Theme:T17

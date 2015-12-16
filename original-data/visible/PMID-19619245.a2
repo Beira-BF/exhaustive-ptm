@@ -1,0 +1,23 @@
+T14	Entity 385 397	Cys residues
+T15	Palmitoylation 426 439	palmitoylated
+T16	Palmitoylation 540 557	non-palmitoylated
+T17	Palmitoylation 626 643	non-palmitoylated
+T18	Palmitoylation 855 872	non-palmitoylated
+T19	Palmitoylation 1003 1020	non-palmitoylated
+T20	Phosphorylation 1193 1208	phosphorylation
+T21	Palmitoylation 1352 1366	palmitoylation
+T22	Palmitoylation 1457 1471	palmitoylation
+T23	Depalmitoylation 1472 1488	depalmitoylation
+E1	Palmitoylation:T15 Theme:T3 Site:T14
+E2	Palmitoylation:T16 Theme:T6
+M1	Negation E2
+E3	Palmitoylation:T17 Theme:T8
+M2	Negation E3
+E4	Palmitoylation:T18 Theme:T9
+M3	Negation E4
+E5	Palmitoylation:T19 Theme:T10
+M4	Negation E5
+E6	Phosphorylation:T20 Theme:T11
+E7	Palmitoylation:T21 Theme:T12
+E8	Palmitoylation:T22 Theme:T12
+E9	Depalmitoylation:T23 Theme:T12

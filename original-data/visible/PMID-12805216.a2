@@ -1,0 +1,6 @@
+*	Equiv T2 T3
+T11	Acylation 751 760	acylation
+T12	Entity 775 779	Gly2
+T13	Entity 784 788	Cys3
+E1	Acylation:T11 Theme:T4 Site:T12
+E2	Acylation:T11 Theme:T4 Site:T13

@@ -1,0 +1,4 @@
+T5	Palmitoylation 0 16	S-palmitoylation
+T6	Palmitoylation 1176 1190	palmitoylation
+E1	Palmitoylation:T5 Theme:T1
+E2	Palmitoylation:T6 Theme:T4

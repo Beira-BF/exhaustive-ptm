@@ -1,0 +1,7 @@
+*	Equiv T10 T11
+T15	Carboxylation 367 380	carboxylation
+T16	Entity 408 430	glutamic acid residues
+T17	Carboxylation 1822 1828	modify
+T18	Entity 1829 1851	glutamic acid residues
+E1	Carboxylation:T15 Site:T16 Theme:T2
+E2	Carboxylation:T17 Site:T18 Theme:T13

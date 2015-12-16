@@ -1,0 +1,14 @@
+T10	Lipoylation 58 69	lipoylation
+T11	Lipoylation 233 236	has
+T12	Lipoylation 1119 1122	has
+T13	Lipoylation 1324 1334	lipoylated
+T14	Entity 1338 1347	lysine 59
+T15	Lipoylation 1377 1388	lipoylation
+T16	Lipoylation 1478 1488	lipoylated
+E1	Lipoylation:T10 Theme:T1
+E2	Lipoylation:T11 Theme:T2
+E3	Lipoylation:T12 Theme:T7
+M1	Negation E3
+E4	Lipoylation:T13 Site:T14 Theme:T7
+E5	Lipoylation:T15 Theme:T8
+E6	Lipoylation:T16 Theme:T9

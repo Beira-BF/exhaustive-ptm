@@ -1,0 +1,12 @@
+T6	Palmitoylation 186 195	transfers
+T7	Palmitoylation 369 377	acylated
+T8	Palmitoylation 392 401	acylation
+T9	Palmitoylation 705 713	modified
+T10	Entity 721 725	CAAX
+T11	Palmitoylation 814 824	unmodified
+E1	Palmitoylation:T6 Theme:T2
+E2	Palmitoylation:T7 Theme:T3
+E3	Palmitoylation:T8 Theme:T3
+E4	Palmitoylation:T9 Site:T10 Theme:T4
+E5	Palmitoylation:T11 Theme:T5
+M1	Negation E5

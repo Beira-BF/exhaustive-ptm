@@ -1,0 +1,21 @@
+T11	Acetylation 863 874	acetylation
+T12	ADP-ribosylation 876 892	ADP-ribosylation
+T13	Glycosylation 894 907	glycosylation
+T14	Phosphorylation 913 928	phosphorylation
+T15	Phosphorylation 1117 1131	phosphorylated
+T16	Phosphorylation 1193 1207	phosphorylated
+E1	Acetylation:T11 Theme:T4
+E2	ADP-ribosylation:T12 Theme:T4
+E3	Glycosylation:T13 Theme:T4
+E4	Phosphorylation:T14 Theme:T4
+E5	Phosphorylation:T15 Theme:T5
+E6	Phosphorylation:T15 Theme:T6
+M1	Speculation E6
+E7	Phosphorylation:T16 Theme:T10
+M2	Negation E7
+E8	Phosphorylation:T16 Theme:T7
+M3	Negation E8
+E9	Phosphorylation:T16 Theme:T8
+M4	Negation E9
+E10	Phosphorylation:T16 Theme:T9
+M5	Negation E10

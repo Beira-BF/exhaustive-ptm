@@ -1,0 +1,18 @@
+*	Equiv T2 T3
+T12	Palmitoylation 0 14	Palmitoylation
+T13	Palmitoylation 177 190	palmitoylated
+T14	Palmitoylation 291 305	palmitoylation
+T15	Palmitoylation 822 838	nonpalmitoylated
+T16	Palmitoylation 1110 1128	monopalmitoylation
+T17	Entity 1139 1146	Cys(26)
+T18	Entity 1156 1163	Cys(29)
+T19	Palmitoylation 1381 1395	palmitoylation
+E1	Palmitoylation:T12 Theme:T1
+E2	Palmitoylation:T13 Theme:T3
+E3	Palmitoylation:T14 Theme:T4
+E4	Palmitoylation:T15 Theme:T7
+M1	Negation E4
+E5	Palmitoylation:T16 Theme:T9 Site:T17
+E6	Palmitoylation:T16 Theme:T9 Site:T18
+M2	Negation E6
+E7	Palmitoylation:T19 Theme:T11

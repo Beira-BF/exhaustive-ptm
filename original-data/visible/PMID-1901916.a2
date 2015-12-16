@@ -1,0 +1,9 @@
+*	Equiv T2 T3
+T13	Acylation 229 237	acylated
+T14	Acylation 533 541	acylated
+T15	Entity 595 603	cysteine
+T16	Acylation 1291 1300	acylation
+E1	Acylation:T13 Theme:T2
+E2	Acylation:T14 Theme:T5 Site:T15
+E3	Acylation:T16 Theme:T10
+M1	Negation E3

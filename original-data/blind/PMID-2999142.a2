@@ -1,0 +1,13 @@
+T12	Glycosylation 40 48	N-linked
+T13	Entity 49 65	oligosaccharides
+T14	Glycosylation 681 689	N-linked
+T15	Entity 690 706	oligosaccharides
+T16	Glycosylation 858 873	nonglycosylated
+T17	Acylation 934 942	acylated
+T18	Acylation 1428 1436	acylated
+E1	Glycosylation:T12 Sidechain:T13 Theme:T1
+E2	Glycosylation:T14 Theme:T3 Sidechain:T15
+E3	Glycosylation:T16 Theme:T5
+M1	Negation E3
+E4	Acylation:T17 Theme:T5
+E5	Acylation:T18 Theme:T9

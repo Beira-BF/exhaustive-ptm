@@ -1,0 +1,8 @@
+*	Equiv T2 T3
+T9	ADP-ribosylation 529 545	ADP-ribosylation
+T10	ADP-ribosylation 816 832	ADP-ribosylation
+T11	ADP-ribosylation 1239 1255	ADP-ribosylation
+E1	ADP-ribosylation:T9 Theme:T1
+E2	ADP-ribosylation:T10 Theme:T4
+E3	ADP-ribosylation:T11 Theme:T6
+E4	ADP-ribosylation:T11 Theme:T7

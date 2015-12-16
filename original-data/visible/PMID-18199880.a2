@@ -1,0 +1,12 @@
+*	Equiv T4 T5
+T9	Palmitoylation 655 668	palmitoylated
+T10	Entity 1101 1118	cysteine residues
+T11	Palmitoylation 1123 1136	palmitoylated
+T12	Palmitoylation 1151 1163	modification
+T13	Entity 1167 1173	Cys629
+T14	Palmitoylation 1388 1401	palmitoylated
+E1	Palmitoylation:T9 Theme:T4
+M1	Speculation E1
+E2	Palmitoylation:T11 Theme:T6 Site:T10
+E3	Palmitoylation:T12 Theme:T6 Site:T13
+E4	Palmitoylation:T14 Theme:T7

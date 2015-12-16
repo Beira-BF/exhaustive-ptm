@@ -1,0 +1,12 @@
+T27	Entity 190 198	tyrosine
+T28	Phosphorylation 199 214	phosphorylation
+T29	Myristoylation 420 436	nonmyristoylated
+T30	Entity 781 789	tyrosine
+T31	Phosphorylation 790 805	phosphorylation
+T32	Myristoylation 866 882	nonmyristoylated
+E1	Phosphorylation:T28 Theme:T4 Site:T27
+E2	Myristoylation:T29 Theme:T10
+M1	Negation E2
+E3	Phosphorylation:T31 Site:T30 Theme:T18
+E4	Myristoylation:T32 Theme:T20
+M2	Negation E4

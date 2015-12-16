@@ -1,0 +1,4 @@
+*	Equiv T2 T3
+T17	Entity 1052 1062	N-terminal
+T18	Palmitoylation 1063 1077	palmitoylation
+E1	Palmitoylation:T18 Theme:T11 Site:T17

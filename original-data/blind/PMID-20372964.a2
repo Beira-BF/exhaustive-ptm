@@ -1,0 +1,10 @@
+T9	Acylation 239 245	linked
+T10	Entity 249 260	cysteine 68
+T11	Palmitoylation 377 396	self-palmitoylation
+T12	Catalysis 377 396	self-palmitoylation
+T13	Acylation 624 636	non-acylated
+E1	Acylation:T9 Theme:T2 Site:T10
+E2	Palmitoylation:T11 Theme:T4
+E3	Catalysis:T12 Theme:E2 Cause:T4
+E4	Acylation:T13 Theme:T5
+M1	Negation E4

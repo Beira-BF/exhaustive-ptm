@@ -1,0 +1,13 @@
+*	Equiv T6 T7
+T23	Neddylation 5 17	modification
+T24	Neddylation 802 810	modifies
+T25	Neddylation 819 835	nonneddylateable
+T26	Neddylation 986 997	neddylation
+T27	Neddylation 1254 1266	modification
+E1	Neddylation:T23 Theme:T1
+E2	Neddylation:T24 Theme:T15
+E3	Neddylation:T25 Theme:T16
+M1	Negation E3
+E4	Neddylation:T26 Theme:T18
+M2	Negation E4
+E5	Neddylation:T27 Theme:T20

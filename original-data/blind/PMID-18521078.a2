@@ -1,0 +1,9 @@
+*	Equiv T2 T3
+*	Equiv T4 T5
+T16	Phosphorylation 447 462	phosphorylation
+T17	Entity 839 849	C-terminal
+T18	Farnesylation 850 863	farnesylation
+T19	Farnesylation 991 1004	farnesylation
+E1	Phosphorylation:T16 Theme:T8
+E2	Farnesylation:T18 Theme:T14 Site:T17
+E3	Farnesylation:T19 Theme:T14

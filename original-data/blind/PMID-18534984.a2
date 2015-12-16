@@ -1,0 +1,29 @@
+*	Equiv T3 T4
+T20	Palmitoylation 56 72	N-palmitoylation
+T21	Catalysis 56 72	N-palmitoylation
+T22	Palmitoylation 93 107	Palmitoylation
+T23	Palmitoylation 310 324	palmitoylation
+T24	Palmitoylation 396 410	palmitoylation
+T25	Palmitoylation 527 536	attaching
+T26	Catalysis 527 536	attaching
+T27	Entity 583 591	cysteine
+T28	Palmitoylation 606 619	palmitoylated
+T29	Catalysis 658 668	substrates
+T30	Palmitoylation 723 735	palmitoylate
+T31	Palmitoylation 811 825	palmitoylation
+T32	Palmitoylation 873 888	N-palmitoylated
+T33	Catalysis 873 888	N-palmitoylated
+E1	Palmitoylation:T20 Theme:T2
+E2	Catalysis:T21 Cause:T1 Theme:E1
+E3	Palmitoylation:T22 Theme:T3
+E4	Palmitoylation:T23 Theme:T7
+E5	Palmitoylation:T24 Theme:T8
+E6	Palmitoylation:T25 Site:T27 Theme:T11
+E7	Catalysis:T26 Theme:E6 Cause:T10
+E8	Palmitoylation:T28 Theme:T12
+E9	Catalysis:T29 Cause:T13 Theme:T12
+E10	Palmitoylation:T30 Theme:T14
+M1	Negation E10
+E11	Palmitoylation:T31 Theme:T15
+E12	Palmitoylation:T32 Theme:T16
+E13	Catalysis:T33 Theme:E12 Cause:T17

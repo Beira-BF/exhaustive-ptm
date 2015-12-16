@@ -1,0 +1,3 @@
+T6	Prenylation 694 704	prenylated
+T7	Entity 705 715	C terminus
+E1	Prenylation:T6 Site:T7 Theme:T1

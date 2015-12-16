@@ -1,0 +1,26 @@
+T9	Acylation 59 69	unacylated
+T10	Acylation 171 179	acylated
+T11	Acetylation 184 194	unacylated
+T12	Acylation 495 503	acylated
+T13	Acylation 508 518	unacylated
+T14	Acylation 619 629	Unacylated
+T15	Acylation 703 711	acylated
+T16	Acylation 796 806	unacylated
+T17	Acylation 891 899	acylated
+T18	Acylation 904 914	unacylated
+E1	Acylation:T9 Theme:T2
+M1	Negation E1
+E2	Acylation:T10 Theme:T3
+E3	Acetylation:T11 Theme:T3
+M2	Negation E3
+E4	Acylation:T12 Theme:T4
+E5	Acylation:T13 Theme:T4
+M3	Negation E5
+E6	Acylation:T14 Theme:T5
+M4	Negation E6
+E7	Acylation:T15 Theme:T6
+E8	Acylation:T16 Theme:T7
+M5	Negation E8
+E9	Acylation:T17 Theme:T8
+E10	Acylation:T18 Theme:T8
+M6	Negation E10

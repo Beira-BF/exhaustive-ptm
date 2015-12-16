@@ -1,0 +1,12 @@
+T14	Acylation 10 18	acylated
+T15	Acylation 308 316	acylated
+T16	Acylation 649 657	acylated
+T17	Acylation 948 956	acylated
+T18	Acylation 1283 1290	cylated
+T19	Acylation 1429 1437	acylated
+E1	Acylation:T14 Theme:T1
+E2	Acylation:T15 Theme:T2
+E3	Acylation:T16 Theme:T3
+E4	Acylation:T17 Theme:T9
+E5	Acylation:T18 Theme:T10
+E6	Acylation:T19 Theme:T13

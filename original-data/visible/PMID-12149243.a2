@@ -1,0 +1,21 @@
+*	Equiv T2 T3
+*	Equiv T7 T8
+T17	Sumoylation 0 11	Sumoylation
+T18	Sumoylation 216 226	sumoylated
+T19	Sumoylation 390 401	sumoylation
+T20	Sumoylation 446 457	sumoylation
+T21	Sumoylation 692 703	sumoylation
+T22	Sumoylation 883 894	sumoylation
+T23	Sumoylation 1073 1084	sumoylation
+T24	Sumoylation 1418 1429	sumoylation
+T25	Entity 1437 1448	NH2-termina
+T26	Sumoylation 1622 1633	sumoylation
+E1	Sumoylation:T17 Theme:T1
+E2	Sumoylation:T18 Theme:T3
+E3	Sumoylation:T19 Theme:T5
+E4	Sumoylation:T20 Theme:T6
+E5	Sumoylation:T21 Theme:T9
+E6	Sumoylation:T22 Theme:T9
+E7	Sumoylation:T23 Theme:T9
+E8	Sumoylation:T24 Theme:T14 Site:T25
+E9	Sumoylation:T26 Theme:T15

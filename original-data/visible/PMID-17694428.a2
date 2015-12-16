@@ -1,0 +1,10 @@
+T16	Myristoylation 440 448	acylated
+T17	Palmitoylation 440 448	acylated
+T18	Palmitoylation 494 506	monoacylated
+T19	Myristoylation 706 715	acylation
+T20	Palmitoylation 706 715	acylation
+E1	Myristoylation:T16 Theme:T9
+E2	Palmitoylation:T17 Theme:T9
+E3	Palmitoylation:T18 Theme:T10
+E4	Myristoylation:T19 Theme:T13
+E5	Palmitoylation:T20 Theme:T13

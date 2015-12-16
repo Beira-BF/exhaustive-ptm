@@ -1,0 +1,10 @@
+*	Equiv T10 T11
+T9	Prenylation 97 108	prenylation
+T10	Entity 1004 1008	CQLF
+T11	Entity 1010 1020	CAAX motif
+T12	Prenylation 1069 1080	prenylation
+T13	Farnesylation 1598 1610	farnesylated
+E1	Prenylation:T9 Theme:T1
+E2	Prenylation:T12 Theme:T6 Site:T10
+M1	Speculation E2
+E3	Farnesylation:T13 Theme:T8

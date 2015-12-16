@@ -1,0 +1,8 @@
+T25	Acylation 969 977	acylated
+T26	Acylation 1015 1024	acylation
+T27	Acylation 1059 1068	acylation
+T28	Acylation 1194 1203	acylation
+E1	Acylation:T25 Theme:T12
+E2	Acylation:T26 Theme:T12
+E3	Acylation:T27 Theme:T14
+E4	Acylation:T28 Theme:T16

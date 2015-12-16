@@ -1,0 +1,6 @@
+*	Equiv T5 T6
+T13	Phosphorylation 512 527	phosphorylation
+T14	Oxidation 944 953	oxidation
+T15	Entity 957 964	Cys-179
+E1	Phosphorylation:T13 Theme:T4
+E2	Oxidation:T14 Site:T15 Theme:T10

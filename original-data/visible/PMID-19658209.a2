@@ -1,0 +1,3 @@
+T4	Entity 1105 1113	tyrosine
+T5	Sulfation 1114 1123	sulfation
+E1	Sulfation:T5 Site:T4 Theme:T3
